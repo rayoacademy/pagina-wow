@@ -1,0 +1,11 @@
+{
+ "id": "pulso-energia",
+ "nombre": "Pulso Energía",
+ "familia": "pulso",
+ "inspiracion": "fitflow (lenguaje visual, código propio)",
+ "se_siente": "fitness y bienestar activo con energía: duotono rosa a azul, degradados pastel, titulares enormes",
+ "firma": ["portada en duotono rosa a azul con titular apilado", "equipo en mazo de tarjetas con palabra gigante detrás", "cifras con degradado", "programas en tarjetas blancas con foto que sobresale", "foto grande tipo artículo", "pasos en tarjetas pastel", "testimonios con palabra gigante de fondo"],
+ "para": "fitness, entrenamiento online, nutrición, apps de bienestar, academias de baile, cursos online",
+ "fotos": {"portada": "retrato sobre fondo liso (se pasa a duotono)", "equipo": "1 a 4 retratos verticales", "servicios[].imagen": "objeto o detalle de cada programa", "pausa.imagen": "foto horizontal de acción", "testimonios[].foto": "retratos"},
+ "fuentes": "family=Plus+Jakarta+Sans:wght@400;500;600;700;800"
+}

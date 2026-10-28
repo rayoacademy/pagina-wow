@@ -1,0 +1,11 @@
+{
+ "id": "juego-stickers",
+ "nombre": "Juego Stickers",
+ "familia": "juego",
+ "inspiracion": "nudge (lenguaje visual, código propio)",
+ "se_siente": "portafolio juguetón con guiños de Figma: lienzo blanco, cajas de selección, notas adhesivas, colores primarios y letra pixelada",
+ "firma": ["regla de lienzo arriba", "nombre dentro de una caja de selección con manijas", "notas adhesivas giradas y cursores con etiqueta", "polaroids", "servicios como fichas de colores con íconos", "proyectos en carpetas con pestaña", "comentario de Figma en el contacto"],
+ "para": "diseñadores UX/UI, ilustradores, creadores de contenido, estudios pequeños, desarrolladores freelance, tiendas jóvenes",
+ "fotos": {"sobre.imagenes": "2 polaroids (tú y tu espacio)", "sobre.avatar": "retrato pequeño", "galeria": "1 foto por proyecto (3 o 4)"},
+ "fuentes": "family=Silkscreen:wght@400;700&family=Inter:wght@400;500;600&family=Space+Mono&family=Caveat:wght@600"
+}

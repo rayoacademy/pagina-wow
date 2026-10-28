@@ -1,0 +1,129 @@
+{
+ "plantilla": "plano-color",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Prisma",
+  "dominio": "Prisma.studio",
+  "lema": [
+   "Diseñamos lo que",
+   "otros no se atreven."
+  ]
+ },
+ "seo": {
+  "titulo": "Prisma Studio · Diseño de producto y marca en Medellín",
+  "descripcion": "Estudio creativo en Medellín: diseño de producto digital, identidad de marca, 3D y campañas para startups y marcas que quieren destacar.",
+  "zona": "Medellín y remoto",
+  "imagen": "fotos/h1.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Prisma Studio S.A.S."
+ },
+ "contacto": {
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "linkedin": "https://linkedin.com",
+  "ciudad": "Medellín",
+  "web3forms_key": ""
+ },
+ "menu_nombres": {
+  "sobre": "Estudio",
+  "servicios": "Servicios",
+  "galeria": "Proyectos"
+ },
+ "nav_cta": "Contacto",
+ "hero": {
+  "frase": [
+   "Producto digital",
+   "estudio de diseño",
+   "3D y sistemas de marketing",
+   "que escalan",
+   "ideas audaces"
+  ],
+  "imagenes": [
+   "fotos/h1.jpg",
+   "fotos/h2.jpg",
+   "fotos/h3.jpg",
+   "fotos/h4.jpg",
+   "fotos/h5.jpg"
+  ]
+ },
+ "sobre": {
+  "texto": [
+   "Desde Medellín somos un estudio creativo hecho de cultura, oficio y curiosidad. Trabajamos donde se cruzan el diseño y las ideas: convertimos conceptos fuertes en identidades audaces y experiencias digitales. Cada cosa que hacemos tiene un propósito: que sea relevante, intencional y que dure.",
+   "Desde startups que apenas arrancan hasta marcas establecidas, ayudamos a los equipos a darle forma a sus ideas, construir bases sólidas y llevar productos nuevos al mercado con diseño pensado."
+  ],
+  "imagen": "fotos/equipo.jpg",
+  "alt": "Tres integrantes del estudio frente a un fondo amarillo",
+  "clientes_titulo": "Startups y marcas que confían en nosotros"
+ },
+ "clientes": [
+  "Rendo",
+  "Fedblx",
+  "Sooba",
+  "Lonpix",
+  "Sundor",
+  "Opendo"
+ ],
+ "galeria": {
+  "imagenes": [
+   {
+    "src": "fotos/g1.jpg",
+    "alt": "Pies con tenis blancos sobre bloques de colores"
+   },
+   {
+    "src": "fotos/g2.jpg",
+    "alt": "Mujer con ropa de colores sosteniendo una botella naranja"
+   }
+  ]
+ },
+ "servicios": {
+  "texto": [
+   "Todo producto fuerte empieza con pensamiento claro y un punto de vista firme. Trabajamos al lado de fundadores, startups y equipos para definir lo que importa: alinear metas de negocio, necesidades de los usuarios y relevancia cultural.",
+   "Desde interfaces para productos con IA y prototipos rápidos hasta 3D y diseño para crecimiento, nos movemos rápido, probamos temprano y mejoramos seguido. Usamos la IA como herramienta creativa, no como atajo."
+  ],
+  "imagen": "fotos/r2.jpg",
+  "items": [
+   {
+    "titulo": "Estrategia de producto"
+   },
+   {
+    "titulo": "UX/UI para productos con IA"
+   },
+   {
+    "titulo": "3D y narrativa visual"
+   },
+   {
+    "titulo": "Diseño para crecimiento"
+   },
+   {
+    "titulo": "Sistemas de diseño"
+   },
+   {
+    "titulo": "Diseño con IA"
+   },
+   {
+    "titulo": "Identidad para startups"
+   },
+   {
+    "titulo": "Prototipos rápidos"
+   }
+  ]
+ },
+ "cierre": {
+  "imagenes": [
+   "fotos/r1.jpg",
+   "fotos/r2.jpg",
+   "fotos/r3.jpg"
+  ],
+  "titulo": [
+   "¿Listo para hacer",
+   "algo que destaque?"
+  ],
+  "texto": "Cuéntanos de tu proyecto: un producto con IA, una marca nueva o una interfaz inteligente.",
+  "cta": {
+   "texto": "Hablemos"
+  }
+ }
+}

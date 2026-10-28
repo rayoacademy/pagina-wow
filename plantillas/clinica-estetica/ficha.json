@@ -1,0 +1,11 @@
+{
+ "id": "clinica-estetica",
+ "nombre": "Clínica Estética",
+ "familia": "clinica",
+ "inspiracion": "dermato (lenguaje visual, código propio)",
+ "se_siente": "clínica cálida y confiable: crema y café suave, serif amable, tarjetas redondeadas, vidrio sobre fotos",
+ "firma": ["portada en tarjeta redondeada con los tratamientos en arco", "frase en serif con íconos entre palabras", "fotos flotando", "tratamientos en filas con ícono", "profesional con nombre en vidrio y lista de compromisos", "mosaico de por qué elegirnos", "calificación en vidrio sobre una foto"],
+ "para": "dermatología, estética, odontología estética, spas médicos, fisioterapia, nutrición clínica, pediatría",
+ "fotos": {"portada": "horizontal cálida de piel o del espacio", "galeria": "4 fotos (tratamientos y pacientes)", "sobre.imagen": "retrato del profesional", "bento.imagen": "foto vertical", "proceso.imagen": "atención en consulta", "testimonios.imagen": "retrato vertical", "cierre.imagen": "detalle de producto o manos"},
+ "fuentes": "family=Lora:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600"
+}

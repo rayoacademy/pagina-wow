@@ -1,0 +1,11 @@
+{
+ "id": "cartel-agencia",
+ "nombre": "Cartel Agencia",
+ "familia": "cartel",
+ "inspiracion": "growthlabb (lenguaje visual, código propio)",
+ "se_siente": "agencia con actitud: crema y rojo, palabra gigante condensada, bloques de color fuertes",
+ "firma": ["palabra gigante condensada con degradado", "panel rojo con foto, cifras y etiquetas", "marquesina de servicios con barras", "proceso en escalera diagonal", "servicios en filas desplegables", "casos con cliente y servicios", "testimonios dispersos sobre negro", "pregunta abierta en rojo"],
+ "para": "agencias de marketing, estudios de diseño, productoras, agencias de eventos, equipos de lanzamiento",
+ "fotos": {"portada": "retrato con luz de color o escena con carácter", "servicios[0].imagen": "producto o trabajo destacado", "galeria": "casos de éxito (1 foto por caso)", "testimonios.imagen": "foto central oscura", "sobre.imagen": "equipo trabajando"},
+ "fuentes": "family=Archivo:wdth,wght@62..125,500..900&family=Urbanist:wght@400;500;600"
+}

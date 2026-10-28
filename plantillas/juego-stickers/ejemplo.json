@@ -1,0 +1,177 @@
+{
+ "plantilla": "juego-stickers",
+ "nivel": "experto",
+ "idioma": "es",
+ "persona": true,
+ "marca": {
+  "nombre": "Valeria Toro"
+ },
+ "seo": {
+  "titulo": "Valeria Toro · Diseñadora de producto en Medellín",
+  "descripcion": "Diseñadora de producto y UX en Medellín. Investigación, prototipos y diseño de interfaces para startups de salud, finanzas y servicios.",
+  "cargo": "Diseñadora de producto",
+  "zona": "Medellín y remoto"
+ },
+ "legal": {
+  "pais": "CO"
+ },
+ "contacto": {
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "linkedin": "https://linkedin.com",
+  "ciudad": "Medellín"
+ },
+ "menu_nombres": {
+  "sobre": "Sobre mí",
+  "galeria": "Proyectos"
+ },
+ "nav_cta": "Contacto",
+ "hero": {
+  "nombre_grande": "Valeria",
+  "saludo": "me llamo",
+  "etiqueta": "Disponible para proyectos con sentido",
+  "notas": [
+   {
+    "t": "Hoy en Clínica Norte",
+    "color": "verde"
+   },
+   {
+    "t": "Antes en Banco Andino",
+    "color": "amarillo"
+   }
+  ],
+  "cursores": [
+   {
+    "t": "Diseñadora de producto",
+    "color": "amarillo"
+   },
+   {
+    "t": "Medellín, Col",
+    "color": "rosa"
+   }
+  ],
+  "cta": {
+   "texto": "Escríbeme"
+  }
+ },
+ "sobre": {
+  "etiqueta": "sobre mí",
+  "titulo": [
+   "qué hago"
+  ],
+  "bajada": "Diseño productos digitales que la gente entiende a la primera: investigo, prototipo y pruebo hasta que funciona.",
+  "avatar": "fotos/av.jpg",
+  "imagenes": [
+   {
+    "src": "fotos/yo.jpg",
+    "pie": "yo, 2026"
+   },
+   {
+    "src": "fotos/escritorio.jpg",
+    "pie": "mi escritorio"
+   }
+  ]
+ },
+ "servicios": {
+  "items": [
+   {
+    "titulo": "Diseño de interacción",
+    "color": "amarillo"
+   },
+   {
+    "titulo": "Prototipos",
+    "color": "verde"
+   },
+   {
+    "titulo": "Investigación con usuarios",
+    "color": "rosa"
+   },
+   {
+    "titulo": "Diseño de movimiento",
+    "color": "azul"
+   }
+  ]
+ },
+ "galeria": {
+  "etiqueta": "mira mi trabajo",
+  "titulo": [
+   "Proyectos",
+   "destacados"
+  ],
+  "bajada": "Una muestra de lo que pasa cuando la curiosidad dirige el proceso.",
+  "imagenes": [
+   {
+    "src": "fotos/p1.jpg",
+    "etiqueta": "19 mar 2026",
+    "titulo": "Clínica Norte",
+    "texto": "Cuando las terapeutas pasan menos tiempo haciendo clics, tienen más tiempo para sus pacientes.",
+    "servicios": [
+     "Salud",
+     "Flujos de trabajo"
+    ],
+    "alt": "Personas corriendo en una pista"
+   },
+   {
+    "src": "fotos/p2.jpg",
+    "etiqueta": "2 mar 2026",
+    "titulo": "PeluBook",
+    "texto": "De 'odio este sistema' a '¿se lo podemos mostrar a otras peluquerías?'.",
+    "servicios": [
+     "SaaS",
+     "Rediseño"
+    ],
+    "alt": "Perro corgi feliz entre flores"
+   },
+   {
+    "src": "fotos/p3.jpg",
+    "etiqueta": "2 ene 2026",
+    "titulo": "Casa Propia",
+    "texto": "Ayudando a quienes compran su primera vivienda a entender lo que están mirando.",
+    "servicios": [
+     "Inmobiliaria",
+     "0 → 1"
+    ],
+    "alt": "Dunas de arena bajo el cielo"
+   },
+   {
+    "src": "fotos/p4.jpg",
+    "etiqueta": "15 nov 2025",
+    "titulo": "Norte Claro",
+    "texto": "Poner de acuerdo a siete áreas sobre lo que de verdad estábamos construyendo.",
+    "servicios": [
+     "Estrategia",
+     "Empresas"
+    ],
+    "alt": "Pared de ladrillo pintada de colores"
+   }
+  ]
+ },
+ "testimonios": {
+  "items": [
+   {
+    "texto": "Abierta a contratos, roles de tiempo completo y conversaciones interesantes sobre problemas difíciles de diseño.",
+    "nombre": "Valeria",
+    "foto": "fotos/av.jpg"
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Trabajas como freelance?",
+   "r": "Sí, por proyecto o por horas, y también me interesan roles de tiempo completo."
+  },
+  {
+   "p": "¿En qué zona horaria trabajas?",
+   "r": "Colombia (GMT-5), con buena coincidencia con Estados Unidos."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "Hablemos"
+  ],
+  "texto": "Me encantan los proyectos donde puedo meterme en problemas complejos, trabajar con gente inteligente y lanzar cosas que de verdad le mejoran el día a alguien.",
+  "cta": {
+   "texto": "Contacto"
+  }
+ }
+}

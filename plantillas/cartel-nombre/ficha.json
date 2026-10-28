@@ -1,0 +1,11 @@
+{
+ "id": "cartel-nombre",
+ "nombre": "Cartel Nombre",
+ "familia": "cartel",
+ "inspiracion": "kern (lenguaje visual, código propio)",
+ "se_siente": "portafolio de marca personal con carácter: blanco y negro, amarillo eléctrico, nombre gigante",
+ "firma": ["retrato en blanco y negro con el nombre gigante de borde a borde", "trabajos en cuadrícula de dos", "la mente detrás con cifras", "servicios en mayúsculas amarillas sobre textura oscura", "escríbeme gigante al cierre"],
+ "para": "creadoras de contenido, diseñadores, fotógrafos, speakers, consultores independientes, artistas, DJs",
+ "fotos": {"portada": "retrato frontal (se pasa a blanco y negro)", "galeria": "4 trabajos o proyectos, horizontales", "sobre.imagen": "retrato vertical", "servicios.imagen": "textura o patrón oscuro (opcional)"},
+ "fuentes": "family=Inter+Tight:wght@500;600;800&family=Inter:wght@400;500"
+}

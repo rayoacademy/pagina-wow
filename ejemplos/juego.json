@@ -1,0 +1,88 @@
+{
+ "variante": "juego-cafe",
+ "nivel": "principiante",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Café La Esquina",
+  "inicial": "E"
+ },
+ "seo": {
+  "titulo": "Café La Esquina · Café de especialidad en Medellín",
+  "descripcion": "Café de especialidad, pan de la casa y desayunos en Laureles, Medellín. Abierto todos los días desde las 7 a.m.",
+  "zona": "Laureles, Medellín"
+ },
+ "legal": {
+  "pais": "CO"
+ },
+ "contacto": {
+  "whatsapp": "+57 304 555 0104",
+  "instagram": "@negocio.ejemplo",
+  "direccion": "Cra. 70 # 00-00",
+  "ciudad": "Medellín",
+  "mapa": "https://maps.google.com",
+  "email": "hola@ejemplo.com"
+ },
+ "nav_cta": "Pedir",
+ "hero": {
+  "etiqueta": "Abierto hoy · 7 a.m. a 7 p.m.",
+  "titulo": [
+   "El café del barrio,",
+   "hecho con calma"
+  ],
+  "texto": "Granos de fincas de Antioquia, pan horneado cada mañana y **mesas para quedarse**.",
+  "cta": {
+   "texto": "Pedir a domicilio"
+  },
+  "cta2": {
+   "texto": "Cómo llegar",
+   "href": "#contacto"
+  }
+ },
+ "servicios": {
+  "etiqueta": "Carta",
+  "titulo": [
+   "Lo que",
+   "más piden"
+  ],
+  "items": [
+   {
+    "titulo": "Filtrados",
+    "texto": "V60 y prensa francesa con el origen del mes.",
+    "precio": "$9.000"
+   },
+   {
+    "titulo": "Desayunos",
+    "texto": "Arepa, huevos y fruta.",
+    "precio": "$18.000"
+   },
+   {
+    "titulo": "Pan de la casa",
+    "texto": "Masa madre y croissants.",
+    "precio": "desde $5.000"
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Tienen domicilios?",
+   "r": "Sí, por WhatsApp en Laureles y alrededores."
+  },
+  {
+   "p": "¿Hay opciones sin lácteos?",
+   "r": "Sí, leche de avena y almendras."
+  },
+  {
+   "p": "¿Se puede trabajar ahí?",
+   "r": "Sí, hay wifi y enchufes en casi todas las mesas."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "Te guardamos",
+   "una mesa"
+  ],
+  "cta": {
+   "texto": "Escribir por WhatsApp"
+  }
+ }
+}

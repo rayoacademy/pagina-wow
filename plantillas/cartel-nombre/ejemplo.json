@@ -1,0 +1,111 @@
+{
+ "plantilla": "cartel-nombre",
+ "nivel": "amateur",
+ "idioma": "es",
+ "persona": true,
+ "marca": {
+  "nombre": "Valentina Ríos"
+ },
+ "seo": {
+  "titulo": "Valentina Ríos · Creadora de contenido y editora de video",
+  "descripcion": "Edito videos y escribo guiones para marcas y creadores. Reels, podcast y talleres de video con celular, en Bogotá y online.",
+  "cargo": "Creadora de contenido y editora de video",
+  "zona": "Bogotá y online",
+  "imagen": "fotos/persona.jpg"
+ },
+ "legal": {
+  "pais": "CO"
+ },
+ "contacto": {
+  "email": "hola@ejemplo.com",
+  "instagram": "@valentina.ejemplo",
+  "ciudad": "Bogotá"
+ },
+ "menu_nombres": {
+  "sobre": "Sobre mí",
+  "servicios": "Qué hago"
+ },
+ "nav_cta": "Escríbeme",
+ "hero": {
+  "titulo": [
+   "Videos que se miran",
+   "hasta el final · Bogotá y online"
+  ],
+  "imagen": "fotos/persona.jpg",
+  "alt": "Valentina sentada en su estudio",
+  "foco": 30,
+  "nombre_grande": "Valentina Ríos"
+ },
+ "galeria": {
+  "etiqueta": "Proyectos",
+  "titulo": [
+   "Lo que he hecho"
+  ],
+  "imagenes": [
+   {
+    "src": "fotos/notae.jpg",
+    "titulo": "Podcast Hablemos Claro",
+    "texto": "Grabación, edición y cortes para redes de un podcast semanal.",
+    "alt": "Micrófono en blanco y negro"
+   },
+   {
+    "src": "fotos/captions.jpg",
+    "titulo": "Edición para marcas",
+    "texto": "Reels y anuncios para tiendas y restaurantes de la ciudad.",
+    "alt": "Persona editando video en la oscuridad"
+   },
+   {
+    "src": "fotos/charm.jpg",
+    "titulo": "Reseñas de tecnología",
+    "texto": "Videos cortos probando aparatos antes de que salgan al mercado.",
+    "alt": "Reloj inteligente sobre una superficie negra"
+   },
+   {
+    "src": "fotos/clase.jpg",
+    "titulo": "Taller de video con celular",
+    "texto": "Un taller de un día para grabar y editar con lo que ya tienes.",
+    "alt": "Computador portátil junto a una planta"
+   }
+  ]
+ },
+ "sobre": {
+  "etiqueta": "Sobre mí",
+  "titulo": [
+   "La mirada",
+   "detrás."
+  ],
+  "imagen": "fotos/persona.jpg",
+  "alt": "Retrato de Valentina",
+  "texto": [
+   "Soy Valentina. Edito videos, escribo guiones y enseño a grabar con el celular.",
+   "Trabajo con marcas pequeñas y creadores que quieren contar mejor lo que hacen, sin producciones gigantes."
+  ],
+  "cta": {
+   "texto": "Escríbeme"
+  }
+ },
+ "servicios": {
+  "etiqueta": "Qué hago",
+  "imagen": "fotos/flores.jpg",
+  "items": [
+   {
+    "titulo": "Edición de video"
+   },
+   {
+    "titulo": "Guiones para reels"
+   },
+   {
+    "titulo": "Contenido para marcas"
+   },
+   {
+    "titulo": "Podcast"
+   },
+   {
+    "titulo": "Talleres"
+   }
+  ]
+ },
+ "cierre": {
+  "grande": "ESCRÍBEME"
+ }
+}

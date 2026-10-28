@@ -1,0 +1,209 @@
+{
+ "plantilla": "calma-intima",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Lucía Ferrer"
+ },
+ "persona": true,
+ "seo": {
+  "titulo": "Lucía Ferrer · Psicóloga en Medellín y online",
+  "descripcion": "Terapia individual y de pareja para ansiedad, agotamiento y momentos de cambio. Consulta en Medellín y online, primera llamada gratis.",
+  "zona": "Medellín y online",
+  "cargo": "Psicóloga clínica",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "datos_sensibles": true
+ },
+ "contacto": {
+  "whatsapp": "+57 310 555 0101",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "direccion": "Cl. 10 # 00-00, El Poblado",
+  "ciudad": "Medellín",
+  "web3forms_key": "00000000-0000-0000-0000-000000000000"
+ },
+ "menu_nombres": {
+  "sobre": "Sobre mí",
+  "servicios": "Terapias",
+  "proceso": "Cómo empezar",
+  "testimonios": "Historias"
+ },
+ "nav_cta": "Agendar cita",
+ "hero": {
+  "titulo": [
+   "Terapia que se siente",
+   "como volver a casa."
+  ],
+  "imagen": "fotos/portada.jpg",
+  "alt": "Pareja riendo en un sofá con luz cálida",
+  "foco": 22,
+  "texto": "Un lugar para dejar de aparentar que todo está bien.",
+  "cta": {
+   "texto": "Agendar cita"
+  },
+  "cta2": {
+   "texto": "Cómo trabajo",
+   "href": "#proceso"
+  }
+ },
+ "sobre": {
+  "etiqueta": "Presentación",
+  "bajada": "Soy Lucía Ferrer. Ofrezco un espacio donde puedes dejar de actuar y simplemente estar. Juntas desarmamos los patrones que te tienen atascada.",
+  "imagen_chica": "fotos/retrato.jpg",
+  "alt_chica": "Mujer sonriendo con luz de tarde",
+  "imagen": "fotos/consulta.jpg",
+  "alt": "Sillón y mesa en la consulta, con luz de ventana",
+  "texto": [
+   "Me hice psicóloga porque sé lo que es verse bien por fuera y estar agotada por dentro. Conozco la ansiedad que funciona, la que te empuja hacia adelante y nunca te deja descansar.",
+   "Mi forma de trabajar es cálida, directa y basada en evidencia. No solo asiento y tomo notas: hago preguntas difíciles y te ayudo a construir una vida que se sienta tan bien como se ve.",
+   "Acompaño a adultos con ansiedad, agotamiento, conflictos de pareja y cambios de vida. Si llegaste hasta aquí, ya diste el primer paso."
+  ],
+  "cta": {
+   "texto": "Agendar una llamada"
+  }
+ },
+ "servicios": {
+  "etiqueta": "Terapias",
+  "titulo": [
+   "Encuentra la ayuda",
+   "que necesitas."
+  ],
+  "imagen": "fotos/servicios.jpg",
+  "alt": "Sillón con luz y sombra sobre el piso",
+  "items": [
+   {
+    "titulo": "Terapia individual",
+    "texto": "Para la ansiedad, el agotamiento y el peso de sostenerlo todo. Trabajamos lo que te tiene atascada y construimos herramientas que duran."
+   },
+   {
+    "titulo": "Terapia de pareja",
+    "texto": "Vengas sola o en pareja, rompemos ciclos de conflicto y construimos una conexión que se sostenga fuera de la consulta."
+   },
+   {
+    "titulo": "Síndrome del impostor",
+    "texto": "Te ganaste tu lugar y aun así sientes que no. Trabajamos para que tu éxito por fin se sienta tuyo."
+   }
+  ]
+ },
+ "proceso": {
+  "etiqueta": "Cómo empezar",
+  "titulo": [
+   "Empezar no debería ser complicado.",
+   "Así arrancamos."
+  ],
+  "items": [
+   {
+    "titulo": "Escríbeme",
+    "texto": "Usa el formulario o WhatsApp para agendar una llamada gratis de 15 minutos. Sin tarjeta, sin compromiso."
+   },
+   {
+    "titulo": "Nos conocemos",
+    "texto": "Hablamos de lo que estás viviendo y de lo que necesitas. Todavía no es terapia: es para que sepas si te sientes cómoda conmigo."
+   },
+   {
+    "titulo": "Cero obligación",
+    "texto": "La relación terapéutica lo es todo. Si no soy la persona indicada, te ayudo a encontrar a quien sí."
+   },
+   {
+    "titulo": "Empieza el proceso",
+    "texto": "Si encajamos, agendamos la primera sesión y armamos juntas el camino para recuperar tu calma."
+   }
+  ]
+ },
+ "pausa": {
+  "imagen": "fotos/pausa.jpg",
+  "alt": "Sillón junto a una ventana con luz de tarde",
+  "texto": "Una relación que va más allá de la hora de consulta. Construyo contigo una alianza para atravesar lo que venga, no como paciente sino como persona."
+ },
+ "testimonios": {
+  "etiqueta": "Historias",
+  "titulo": [
+   "Así se ve dejar de cargarlo todo sola.",
+   "Historias reales de consulta."
+  ],
+  "items": [
+   {
+    "texto": "Llegué pensando que solo tenía que arreglar mi productividad. Lucía me ayudó a entender de dónde venía la ansiedad y por qué no tenía que manejar mi vida. No estoy libre de ansiedad, pero por fin estoy en control.",
+    "nombre": "J. R.",
+    "rol": "Ingeniera de software"
+   },
+   {
+    "texto": "Por primera vez sentí que alguien me escuchaba sin apurarme. Las herramientas que me dio las uso todos los días.",
+    "nombre": "M. A.",
+    "rol": "Docente"
+   }
+  ]
+ },
+ "contacto_seccion": {
+  "etiqueta": "Contacto",
+  "titulo": [
+   "Escribir ya es suficiente.",
+   "Yo me encargo del resto."
+  ],
+  "puntos": [
+   "Psicóloga clínica con tarjeta profesional",
+   "12 años de experiencia",
+   "Confidencialidad bajo secreto profesional"
+  ],
+  "bajada": "¿Prefieres hablar primero? Escríbeme por WhatsApp o correo, respondo en menos de 24 horas."
+ },
+ "galeria": {
+  "etiqueta": "Diario",
+  "titulo": [
+   "Reflexiones sobre el trabajo,",
+   "a veces desordenado, de sanar."
+  ],
+  "imagenes": [
+   {
+    "src": "fotos/diario1.jpg",
+    "etiqueta": "Ansiedad",
+    "titulo": "Por qué el perfeccionismo es una respuesta al miedo",
+    "texto": "El perfeccionismo casi nunca es una meta: suele ser una forma de protegerte.",
+    "alt": "Cortina con luz de ventana"
+   },
+   {
+    "src": "fotos/diario2.jpg",
+    "etiqueta": "Relaciones",
+    "titulo": "El duelo silencioso de alejarte de una amistad",
+    "texto": "No hay ritual para las amistades que se van, y aun así duelen.",
+    "alt": "Cuencos de cerámica sobre una mesa"
+   },
+   {
+    "src": "fotos/diario3.jpg",
+    "etiqueta": "Calma",
+    "titulo": "Lo que tu ansiedad intenta decirte",
+    "texto": "La ansiedad rara vez es aleatoria. Casi siempre señala algo que necesitas.",
+    "alt": "Flores en un jarrón sobre la mesa"
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Cómo sé si la terapia es para mí?",
+   "r": "Si te lo estás preguntando, probablemente sí. La terapia no es solo para las crisis: es para cualquiera que quiera claridad, crecimiento o alivio."
+  },
+  {
+   "p": "¿Cuál es la diferencia entre la llamada y la primera sesión?",
+   "r": "La llamada dura 15 minutos, es gratis y sirve para conocernos. La primera sesión dura 50 minutos y ya empezamos a trabajar."
+  },
+  {
+   "p": "¿Cuánto dura un proceso?",
+   "r": "Depende de lo que te trae. Algunas personas vienen 8 sesiones y otras se quedan un año. Lo revisamos juntas cada mes."
+  },
+  {
+   "p": "¿Y si ya probé terapia y no me sirvió?",
+   "r": "Pasa más de lo que crees. Cuéntame qué no funcionó y lo tenemos en cuenta desde el inicio."
+  },
+  {
+   "p": "¿Todo lo que digo es confidencial?",
+   "r": "Sí, bajo el secreto profesional de la ley colombiana, con las excepciones que la ley define para proteger tu vida."
+  },
+  {
+   "p": "¿Puedo cancelar o reprogramar?",
+   "r": "Sí, avisando con 24 horas de anticipación no tiene costo."
+  }
+ ]
+}

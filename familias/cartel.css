@@ -1,0 +1,21 @@
+/* CARTEL · el nombre gigante, papel y un color de marca */
+:root{--bg:#efeee9;--surface:#e6e5df;--surface2:#dcdbd4;--ink:#0c0c0c;--muted:#64645f;--muted2:#9a9a94;
+  --line:rgba(0,0,0,.1);--line2:rgba(0,0,0,.2);--surface-alt:#e8e7e1;--accent:#ff4a1c;--accent-ink:#ffffff;--live:var(--accent);
+  --f-display:'Archivo',sans-serif;--f-body:'Inter',system-ui,sans-serif;--d-weight:800;--d-track:-.045em;--d-lh:.86;--d-case:uppercase;
+  --d-stretch:112%;--r:18px;--ph-grad:linear-gradient(135deg,#1a1a1a 0%,#3a3a3a 60%,#1a1a1a 100%);--cierre-bg:#0c0c0c;--cierre-ink:#efeee9;}
+.h{font-stretch:var(--d-stretch);}
+.chip{background:transparent;}
+.head h2,.proc .stick h2,.faq h2{font-size:clamp(2.6rem,6.2vw,5.6rem);}
+.step h3,.sv h3,.pk h3{font-family:var(--f-display);font-weight:700;text-transform:uppercase;letter-spacing:-.02em;font-size:1.3rem;font-stretch:var(--d-stretch);}
+.nums b{font-weight:800;}
+.mq{background:var(--cierre-bg);border:0;}
+.mq-t{color:var(--cierre-ink);font-weight:800;text-transform:uppercase;font-size:1.3rem;letter-spacing:-.01em;}
+.mq-t span::after{background:var(--accent);width:8px;height:8px;}
+.tq blockquote{font-family:var(--f-body);font-size:1.15rem;}
+.sobre .card{justify-content:center;}
+.cierre{background:var(--cierre-bg);}
+.cierre>.ph,.cierre::before{display:none;}
+.cierre{--ink:var(--cierre-ink);--muted:color-mix(in srgb,var(--cierre-ink) 80%,transparent);--g-color:color-mix(in srgb,var(--cierre-ink) 72%,transparent);--line2:color-mix(in srgb,var(--cierre-ink) 25%,transparent);}
+.cierre h2 .w{color:var(--cierre-title,var(--accent));}
+.pk.top{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);}
+.pk.top .btn.p{background:var(--accent-ink);color:var(--accent);}

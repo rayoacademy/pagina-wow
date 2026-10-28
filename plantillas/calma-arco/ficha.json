@@ -1,0 +1,11 @@
+{
+ "id": "calma-arco",
+ "nombre": "Calma Arco",
+ "familia": "calma",
+ "inspiracion": "serena-yoga (lenguaje visual, código propio)",
+ "se_siente": "estudio de bienestar cálido: crema y salvia, serif clásica con itálica, curvas suaves",
+ "firma": ["portada a sangre con borde inferior curvo", "tarjetas con remate en arco", "banda salvia con ilustración de línea", "testimonios tipo polaroid con firma manuscrita", "cierre con curva hacia el pie verde"],
+ "para": "yoga, pilates, spa, terapeutas, nutrición, medicina integrativa, retiros",
+ "fotos": {"portada": "horizontal, luz cálida, personas en movimiento", "sobre.imagen": "el espacio, horizontal", "servicios[].imagen": "verticales, una por servicio (3 o 4)", "galeria": "3 fotos para el bloque editorial", "testimonios[].foto": "opcional"},
+ "fuentes": "family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500&family=Caveat:wght@500"
+}

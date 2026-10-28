@@ -1,0 +1,180 @@
+{
+ "familia": "calma",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Lucía Ferrer",
+  "inicial": "L"
+ },
+ "seo": {
+  "titulo": "Lucía Ferrer · Psicóloga · Terapia online y en Medellín",
+  "descripcion": "Terapia individual para ansiedad, duelo y momentos de cambio. Sesiones online y presenciales en Medellín."
+ },
+ "contacto": {
+  "whatsapp": "+57 310 555 0101",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "ciudad": "Medellín"
+ },
+ "nav_cta": "Agendar",
+ "hero": {
+  "etiqueta": "Agenda abierta · online y presencial",
+  "titulo": [
+   "Un espacio para",
+   "volver a ti"
+  ],
+  "texto": "Terapia individual para ansiedad, duelo y momentos de cambio. **Sin juicios, a tu ritmo**, con herramientas que puedes usar desde la primera semana.",
+  "cta": {
+   "texto": "Agendar primera cita"
+  },
+  "cta2": {
+   "texto": "Cómo trabajo",
+   "href": "#proceso"
+  }
+ },
+ "marquesina": [
+  "Ansiedad",
+  "Duelo",
+  "Autoestima",
+  "Relaciones",
+  "Cambios de vida"
+ ],
+ "sobre": {
+  "etiqueta": "Sobre mí",
+  "titulo": [
+   "Te escucho",
+   "de verdad"
+  ],
+  "bajada": "Psicóloga clínica con doce años de consulta.",
+  "texto": [
+   "Soy psicóloga de la Universidad de Antioquia, con maestría en terapia cognitiva. Acompaño a adultos que sienten que algo tiene que cambiar, aunque no sepan bien qué.",
+   "Mi consulta es un lugar tranquilo, sin prisa. Trabajamos con tu historia y con herramientas concretas para el día a día."
+  ],
+  "cifras": [
+   {
+    "n": "12",
+    "t": "años de consulta"
+   },
+   {
+    "n": "50 min",
+    "t": "por sesión"
+   }
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Acompañamiento",
+  "titulo": [
+   "Cómo puedo",
+   "acompañarte"
+  ],
+  "bajada": "Cada proceso es distinto. Estos son los más comunes.",
+  "items": [
+   {
+    "titulo": "Terapia individual",
+    "texto": "Para ansiedad, tristeza, estrés o cuando algo pesa y no sabes por dónde empezar."
+   },
+   {
+    "titulo": "Procesos de duelo",
+    "texto": "Pérdidas, separaciones o cierres que necesitan su tiempo y su espacio."
+   },
+   {
+    "titulo": "Terapia online",
+    "texto": "La misma calidez desde tu casa, por videollamada, en cualquier ciudad."
+   }
+  ]
+ },
+ "proceso": {
+  "etiqueta": "Cómo trabajo",
+  "titulo": [
+   "Paso a paso,",
+   "sin prisa"
+  ],
+  "bajada": "Así empieza un proceso conmigo.",
+  "items": [
+   {
+    "titulo": "Una primera charla",
+    "texto": "Quince minutos gratis para conocernos y ver si soy la persona indicada."
+   },
+   {
+    "titulo": "Primera sesión",
+    "texto": "Hablamos de lo que te trae y definimos juntas qué quieres lograr."
+   },
+   {
+    "titulo": "El proceso",
+    "texto": "Sesiones semanales o quincenales, con tareas sencillas entre una y otra."
+   }
+  ]
+ },
+ "testimonios": {
+  "etiqueta": "Testimonios",
+  "titulo": [
+   "Palabras de",
+   "quienes pasaron por aquí"
+  ],
+  "items": [
+   {
+    "texto": "Llegué con ataques de ansiedad casi a diario. Hoy tengo herramientas y, sobre todo, calma.",
+    "nombre": "A. M.",
+    "rol": "Paciente, 2025"
+   },
+   {
+    "texto": "Lucía me ayudó a atravesar el duelo por mi mamá sin sentir que tenía que estar bien rápido.",
+    "nombre": "J. L.",
+    "rol": "Paciente, 2024"
+   }
+  ]
+ },
+ "paquetes": {
+  "etiqueta": "Tarifas",
+  "titulo": [
+   "Tarifas",
+   "claras"
+  ],
+  "items": [
+   {
+    "nombre": "Sesión individual",
+    "precio": "$160.000",
+    "texto": "50 minutos, online o presencial.",
+    "incluye": [
+     "Reprogramación sin costo",
+     "Material de apoyo"
+    ]
+   },
+   {
+    "nombre": "Paquete de 4",
+    "precio": "$560.000",
+    "texto": "Para empezar un proceso.",
+    "destacado": true,
+    "incluye": [
+     "4 sesiones",
+     "Ahorras $80.000",
+     "Seguimiento por correo"
+    ]
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Cómo sé si necesito terapia?",
+   "r": "Si algo te está costando más de lo normal y lleva semanas, vale la pena conversarlo. Para eso es la primera charla gratis."
+  },
+  {
+   "p": "¿La terapia online funciona igual?",
+   "r": "Sí. La evidencia muestra resultados equivalentes y para muchas personas es más cómodo."
+  },
+  {
+   "p": "¿Es confidencial?",
+   "r": "Totalmente, bajo el secreto profesional de la ley colombiana."
+  }
+ ],
+ "cierre": {
+  "etiqueta": "Primera charla gratis",
+  "titulo": [
+   "Cuando estés lista,",
+   "aquí estoy"
+  ],
+  "texto": "Escríbeme y agendamos quince minutos para conocernos, sin compromiso.",
+  "cta": {
+   "texto": "Escribir por WhatsApp"
+  }
+ }
+}

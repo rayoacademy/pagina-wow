@@ -1,0 +1,11 @@
+{
+ "id": "plano-estudio",
+ "nombre": "Plano Estudio",
+ "familia": "plano",
+ "inspiracion": "tektura (lenguaje visual, código propio)",
+ "se_siente": "estudio técnico y sereno: gris claro, monoespaciada para etiquetas, fotos en blanco y negro, mucha retícula",
+ "firma": ["portada con lista de servicios en monoespaciada a la izquierda", "frase gris grande con firma de quien dirige", "obras 2x2 con el nombre encima", "cifras enormes con etiquetas mono", "servicios con miniaturas", "proceso como tabla", "cierre oscuro con tira de fotos", "correo gigante en el pie"],
+ "para": "arquitectura, interiorismo, ingeniería, construcción, estudios de diseño, abogados, consultoras técnicas",
+ "fotos": {"portada": "horizontal clara (arquitectura, espacio)", "sobre.imagen": "retrato en blanco y negro de quien dirige", "galeria": "4 obras o proyectos", "servicios[].imagen": "miniaturas (opcional)", "testimonios[].foto": "retrato", "cierre.imagenes": "5 fotos para la tira"},
+ "fuentes": "family=Hanken+Grotesk:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "plano-color",
+ "nombre": "Plano Color",
+ "familia": "plano",
+ "inspiracion": "coska (lenguaje visual, código propio)",
+ "se_siente": "estudio creativo: blanco puro, mayúsculas con símbolos, el color lo ponen las fotos",
+ "firma": ["titular en mayúsculas con símbolos y partes en gris", "mosaico de 5 fotos de color", "frase del estudio con foto del equipo", "fila de logos de clientes", "lista de servicios separada por cuadritos", "barra en cápsula para el cierre", "nombre gigante sobre negro"],
+ "para": "estudios de diseño, agencias creativas, fotógrafos de producto, marcas de moda, estudios 3D, productoras",
+ "fotos": {"hero.imagenes": "5 fotos de color (3 arriba, 2 abajo)", "sobre.imagen": "foto del equipo", "galeria": "2 fotos grandes", "cierre.imagenes": "3 fotos para la fila final"},
+ "fuentes": "family=Instrument+Sans:wght@400;500;600"
+}

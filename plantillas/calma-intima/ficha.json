@@ -1,0 +1,11 @@
+{
+ "id": "calma-intima",
+ "nombre": "Calma Íntima",
+ "familia": "calma",
+ "inspiracion": "alma (lenguaje visual, código propio)",
+ "se_siente": "consulta íntima y editorial: crema, negro cálido, sans media con itálica serif, mucho aire",
+ "firma": ["portada a sangre con titular abajo a la izquierda", "etiquetas entre paréntesis en itálica", "collage asimétrico de dos fotos", "servicios con imagen fija al lado", "numeral gigante que cambia con el scroll", "banda oscura con un testimonio a la vez y formulario de líneas", "nombre gigante en itálica en el pie"],
+ "para": "psicólogas, terapeutas, coaches 1 a 1, psiquiatría, acompañamiento de duelo, sexología",
+ "fotos": {"portada": "horizontal cálida, personas cercanas (luz de tarde)", "sobre.imagen": "horizontal, la consulta o la persona", "sobre.imagen_chica": "retrato vertical", "servicios.imagen": "vertical con luz y sombra", "pausa.imagen": "horizontal tranquila, un espacio", "galeria": "3 fotos de objetos o espacios"},
+ "fuentes": "family=Libre+Baskerville:ital@0;1&family=Manrope:wght@400;500;600"
+}

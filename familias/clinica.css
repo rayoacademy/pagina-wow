@@ -1,0 +1,19 @@
+/* CLÍNICA · confianza: blanco cálido, sans redonda, sombras suaves, acento sereno */
+:root{--bg:#f7fafc;--surface:#ffffff;--surface2:#f0f5f9;--ink:#0f1f2e;--muted:#5b6b7a;--muted2:#98a6b3;
+  --line:rgba(15,31,46,.08);--line2:rgba(15,31,46,.14);--surface-alt:#eef4f8;--accent:#0b8577;--accent-ink:#ffffff;--live:#0b8577;
+  --f-display:'Plus Jakarta Sans',sans-serif;--f-body:'Plus Jakarta Sans',system-ui,sans-serif;--d-weight:600;--d-track:-.035em;
+  --g-color:var(--accent);--r:22px;--soft:0 1px 2px rgba(15,31,46,.04),0 12px 32px -12px rgba(15,31,46,.12);
+  --ph-grad:linear-gradient(150deg,#d9eef0 0%,#a9d6d9 55%,#6fb7bd 100%);}
+.card,.sv,.step,.pk,.ct{border-color:transparent;box-shadow:var(--soft);}
+.chip{background:var(--surface);border-color:var(--line);box-shadow:var(--soft);}
+.chip::before{background:var(--accent);}
+.sv .i{width:44px;height:44px;border-radius:14px;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent);display:grid;place-items:center;font-weight:700;}
+.step .n{background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent);border:0;font-weight:700;}
+.nav-in{background:color-mix(in srgb,var(--surface) 85%,transparent);border-color:var(--line);box-shadow:var(--soft);backdrop-filter:blur(18px);}
+.mq-t{font-weight:600;}
+.cierre{background:var(--accent);}
+.cierre>.ph,.cierre::before{display:none;}
+.cierre{--ink:#ffffff;--muted:rgba(255,255,255,.92);--line2:rgba(255,255,255,.35);--g-color:rgba(255,255,255,.75);}
+.cierre .btn.p{background:#fff;color:var(--accent);}
+.pk.top{background:var(--accent);color:#fff;}
+.pk.top .btn.p{background:#fff;color:var(--accent);}

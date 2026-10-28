@@ -1,0 +1,135 @@
+{
+ "familia": "cartel",
+ "idioma": "es",
+ "persona": true,
+ "marca": {
+  "nombre": "Valentina Ríos",
+  "inicial": "M"
+ },
+ "seo": {
+  "titulo": "Valentina Ríos · Edición de video y contenido",
+  "descripcion": "Edito videos y escribo guiones para marcas y creadores. Reels, podcast y talleres de video con celular, en Bogotá y online."
+ },
+ "contacto": {
+  "instagram": "@valentina.ejemplo",
+  "email": "hola@ejemplo.com"
+ },
+ "nav_cta": "Escríbeme",
+ "hero": {
+  "etiqueta": "Agenda abierta · noviembre",
+  "titulo": [
+   "Videos que se miran",
+   "hasta el final"
+  ],
+  "texto": "Edito reels, anuncios y podcast para marcas pequeñas: **ritmo, subtítulos y un buen gancho** en los primeros segundos.",
+  "nombre_grande": "Valentina Ríos",
+  "imagen": "fotos/persona.jpg",
+  "cta": {
+   "texto": "Escríbeme"
+  },
+  "cta2": {
+   "texto": "Ver proyectos",
+   "href": "#galeria"
+  },
+  "datos": [
+   {
+    "t": "Para",
+    "n": "Marcas y creadores"
+   },
+   {
+    "t": "Formato",
+    "n": "Reels y podcast"
+   },
+   {
+    "t": "Entrega",
+    "n": "En 5 días"
+   },
+   {
+    "t": "Desde",
+    "n": "Bogotá"
+   }
+  ]
+ },
+ "marquesina": [
+  "Reels",
+  "Podcast",
+  "Anuncios",
+  "Subtítulos",
+  "Guiones",
+  "Talleres",
+  "Color"
+ ],
+ "sobre": {
+  "etiqueta": "Quién soy",
+  "titulo": [
+   "Empecé editando",
+   "con el celular"
+  ],
+  "bajada": "Edito videos, escribo guiones y enseño a grabar con el celular.",
+  "imagen": "fotos/persona.jpg",
+  "texto": [
+   "Soy Valentina Ríos. Llevo años editando para marcas pequeñas que necesitan verse bien sin una productora detrás.",
+   "Trabajo con lo que ya tienes: tu celular, tu luz y tu forma de hablar."
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Qué hago",
+  "titulo": [
+   "Lo que puedo",
+   "hacer por ti"
+  ],
+  "bajada": "Proyectos reales, no plantillas.",
+  "items": [
+   {
+    "titulo": "Edición de reels",
+    "texto": "Cortes, ritmo y subtítulos para que la gente se quede hasta el final."
+   },
+   {
+    "titulo": "Guiones",
+    "texto": "Te ayudo a decir lo importante en los primeros tres segundos."
+   },
+   {
+    "titulo": "Talleres",
+    "texto": "Un día para aprender a grabar y editar con tu celular."
+   }
+  ]
+ },
+ "galeria": {
+  "etiqueta": "Detrás de cámara",
+  "titulo": [
+   "Así trabajo",
+   "cada semana"
+  ],
+  "imagenes": [
+   "fotos/persona.jpg",
+   "fotos/persona.jpg",
+   "fotos/persona.jpg",
+   "fotos/persona.jpg"
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Cuánto se demora un video?",
+   "r": "Entre 3 y 5 días hábiles desde que recibo el material."
+  },
+  {
+   "p": "¿Necesito equipo profesional?",
+   "r": "No. Con un celular y buena luz es suficiente; te digo cómo grabar."
+  },
+  {
+   "p": "¿Trabajas con marcas fuera de Bogotá?",
+   "r": "Sí. Todo se puede hacer en línea."
+  }
+ ],
+ "cierre": {
+  "etiqueta": "Agenda abierta",
+  "titulo": [
+   "Cuéntame",
+   "tu idea"
+  ],
+  "texto": "Escríbeme qué quieres grabar y te respondo con una propuesta en un día.",
+  "cta": {
+   "texto": "Escribirme"
+  }
+ }
+}

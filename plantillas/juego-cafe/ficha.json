@@ -1,0 +1,11 @@
+{
+ "id": "juego-cafe",
+ "nombre": "Juego Café",
+ "familia": "juego",
+ "inspiracion": "moka-cafe (lenguaje visual, código propio)",
+ "se_siente": "café de barrio con humor: café oscuro, crema mantequilla, marca en letra burbuja, todo en minúscula",
+ "firma": ["marca gigante en letra burbuja sobre la foto", "mosaico de paneles café y crema con fotos y texto encima", "texto en curva sobre una foto", "lo más pedido con tarjetas escalonadas", "carta con precios", "texto que gira alrededor de un producto"],
+ "para": "cafés, panaderías, heladerías, restaurantes de barrio, bares, food trucks, tiendas de postres",
+ "fotos": {"portada": "foto con actitud (persona con el producto)", "mosaico": "4 a 6 fotos de gente y producto (campo mosaico)", "carta.imagen": "el local", "tienda.imagen": "producto para vender (opcional)"},
+ "fuentes": "family=Bagel+Fat+One&family=Unica+One&family=DM+Sans:wght@400;500"
+}

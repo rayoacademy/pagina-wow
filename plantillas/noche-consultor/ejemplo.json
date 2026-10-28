@@ -1,0 +1,241 @@
+{
+ "plantilla": "noche-consultor",
+ "nivel": "experto",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Norte Consultores",
+  "lema": "Estrategia, operación y crecimiento para dueños de negocio que ya no quieren hacerlo todo solos."
+ },
+ "seo": {
+  "titulo": "Norte Consultores · Estrategia para pequeñas empresas",
+  "descripcion": "Consultoría de estrategia y operación para dueños de pequeñas empresas en Colombia. Crece tus ventas, ordena tu operación y recupera tu tiempo.",
+  "zona": "Colombia, remoto",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Norte Consultores S.A.S."
+ },
+ "integraciones": {
+  "formulario": "propio"
+ },
+ "contacto": {
+  "whatsapp": "+57 315 555 0122",
+  "email": "hola@ejemplo.com",
+  "linkedin": "https://linkedin.com",
+  "ciudad": "Bogotá"
+ },
+ "menu_nombres": {
+  "sobre": "Diagnóstico",
+  "proceso": "Método",
+  "testimonios": "Clientes",
+  "galeria": "Recursos"
+ },
+ "nav_cta": "Agendar llamada",
+ "hero": {
+  "titulo": [
+   "Haz crecer tu negocio",
+   "sin que te consuma"
+  ],
+  "datos": [
+   {
+    "n": "120+",
+    "t": "dueños de negocio acompañados"
+   }
+  ],
+  "imagen": "fotos/portada.jpg",
+  "alt": "Consultor en traje con los brazos cruzados",
+  "texto": "Estrategias probadas que han ayudado a más de 120 empresarios a duplicar sus ventas, ordenar su operación y recuperar su tiempo.",
+  "cta": {
+   "texto": "Agendar llamada"
+  },
+  "cta2": {
+   "texto": "Guía gratis",
+   "href": "#galeria"
+  }
+ },
+ "sobre": {
+  "etiqueta": "Lo que frena tu crecimiento",
+  "titulo": [
+   "¿Sientes que tu negocio",
+   "dejó de crecer?"
+  ],
+  "imagen": "fotos/problema.jpg",
+  "alt": "Hombre hablando por teléfono frente a su computador",
+  "bajada": "Trabajas más que nunca, pero el crecimiento se siente impredecible. Demasiadas decisiones, procesos que no escalan y la competencia que avanza.",
+  "puntos": [
+   "Una estrategia poco clara te está costando plata",
+   "La operación se come tu tiempo y tu margen",
+   "Decisiones grandes tomadas a ciegas"
+  ],
+  "cta": {
+   "texto": "Agendar diagnóstico"
+  }
+ },
+ "proceso": {
+  "etiqueta": "Método",
+  "titulo": [
+   "Tu crecimiento sobre",
+   "pilares probados"
+  ],
+  "bajada": "Acompañamiento a la medida en las áreas que sostienen un negocio sano.",
+  "items": [
+   {
+    "titulo": "Diagnóstico",
+    "texto": "Nada de suposiciones. Cada decisión parte de tus números, tus clientes y tu competencia."
+   },
+   {
+    "titulo": "Estrategia para vender más",
+    "texto": "Definimos a quién le vendes, qué le ofreces y cómo llega a ti, con metas que se pueden medir."
+   },
+   {
+    "titulo": "Operación que da confianza",
+    "texto": "Ordenamos procesos, roles y herramientas para que el negocio no dependa de que estés en todo."
+   },
+   {
+    "titulo": "Sistemas que escalan",
+    "texto": "Tableros y rutinas para que el crecimiento se sostenga cuando ya no estemos."
+   }
+  ]
+ },
+ "testimonios": {
+  "etiqueta": "Clientes",
+  "titulo": [
+   "Lo que dicen",
+   "mis clientes"
+  ],
+  "bajada": "Resultados en negocios de distintos sectores.",
+  "items": [
+   {
+    "texto": "En seis meses pasamos de improvisar cada mes a tener un plan claro. Las ventas subieron 40% y por fin me tomé vacaciones.",
+    "nombre": "Carolina Vélez",
+    "rol": "Dueña de agencia de viajes",
+    "foto": "fotos/av1.jpg"
+   },
+   {
+    "texto": "Me ayudaron a ver los números que no quería mirar. Cerramos dos líneas que perdían plata y la empresa respira.",
+    "nombre": "Daniela Ortiz",
+    "rol": "Gerente de distribuidora",
+    "foto": "fotos/av2.jpg"
+   },
+   {
+    "texto": "El orden en la operación cambió todo. El equipo sabe qué hacer sin preguntarme cada cosa.",
+    "nombre": "Felipe Arango",
+    "rol": "Fundador de taller industrial",
+    "foto": "fotos/av3.jpg"
+   }
+  ]
+ },
+ "paquetes": {
+  "etiqueta": "Planes",
+  "titulo": [
+   "Invierte en crecer,",
+   "no en adivinar"
+  ],
+  "bajada": "Tres opciones según la etapa de tu negocio y el acompañamiento que necesitas.",
+  "items": [
+   {
+    "nombre": "Arranque",
+    "precio": "$1.200.000",
+    "periodo": "/mes",
+    "texto": "Para dueños que necesitan claridad rápida.",
+    "incluye": [
+     "Diagnóstico de crecimiento",
+     "Plan de acción a 30 días",
+     "Revisión de retos actuales"
+    ]
+   },
+   {
+    "nombre": "Socio",
+    "precio": "$2.400.000",
+    "periodo": "/mes",
+    "texto": "Para quien quiere acompañamiento continuo.",
+    "incluye": [
+     "4 sesiones al mes",
+     "Acceso por WhatsApp y correo",
+     "Optimización de estrategia"
+    ]
+   },
+   {
+    "nombre": "Crecimiento",
+    "precio": "$4.800.000",
+    "periodo": "/mes",
+    "destacado": true,
+    "texto": "Para negocios listos para escalar con guía.",
+    "incluye": [
+     "Diagnóstico completo",
+     "Plan de 90 días con prioridades",
+     "Tableros de seguimiento"
+    ]
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Qué tipo de consultoría ofrecen?",
+   "r": "Estrategia comercial, operación y finanzas para pequeñas y medianas empresas. Trabajamos sobre tus números reales."
+  },
+  {
+   "p": "¿Quién se beneficia de trabajar con ustedes?",
+   "r": "Dueños de negocios que ya venden, pero sienten que crecer les cuesta cada vez más tiempo y desgaste."
+  },
+  {
+   "p": "¿Cómo agendo una llamada?",
+   "r": "Con el botón Agendar llamada o por WhatsApp. Te respondemos el mismo día hábil."
+  },
+  {
+   "p": "¿Qué pasa en la primera llamada?",
+   "r": "Son 30 minutos para entender tu negocio y decirte con honestidad si te podemos ayudar."
+  },
+  {
+   "p": "¿Cuánto dura un proceso?",
+   "r": "El mínimo es de tres meses. La mayoría de clientes se queda entre seis y doce."
+  }
+ ],
+ "contacto_seccion": {
+  "etiqueta": "Contacto",
+  "titulo": [
+   "¿Listo?",
+   "Hablemos."
+  ],
+  "bajada": "Cuéntame de tu negocio y te respondo en menos de 24 horas.",
+  "imagen": "fotos/retrato.jpg",
+  "alt": "Mujer sonriendo sentada sobre una mesa"
+ },
+ "galeria": {
+  "etiqueta": "Recursos",
+  "titulo": [
+   "Ideas para crecer",
+   "con cabeza fría"
+  ],
+  "bajada": "Guías prácticas y estrategias para tomar mejores decisiones.",
+  "imagenes": [
+   {
+    "src": "fotos/blog1.jpg",
+    "titulo": "Por qué la mayoría de negocios no escala (y cómo evitarlo)",
+    "texto": "Crecer emociona, hasta que se empieza a romper tu operación, tu equipo y tu paciencia.",
+    "alt": "Hombre presentando en una oficina"
+   },
+   {
+    "src": "fotos/blog2.jpg",
+    "titulo": "Cuándo contratar un consultor (y cuándo no)",
+    "texto": "No se trata de arreglar problemas pequeños, sino de ver lo que tú ya no alcanzas a ver desde adentro.",
+    "alt": "Hombre escribiendo en su escritorio"
+   }
+  ]
+ },
+ "cierre": {
+  "titulo": [
+   "Lista para crecer",
+   "con confianza"
+  ],
+  "texto": "Agenda una llamada gratis de 30 minutos. Encontramos oportunidades y definimos los siguientes pasos, sin presión.",
+  "puntos": [
+   "Llamada de 30 minutos",
+   "Respuesta en 24 horas"
+  ],
+  "cta": {
+   "texto": "Agendar llamada"
+  }
+ }
+}

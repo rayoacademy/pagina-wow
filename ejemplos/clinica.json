@@ -1,0 +1,86 @@
+{
+ "variante": "clinica-dental",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Sonríe Odontología",
+  "inicial": "S"
+ },
+ "seo": {
+  "titulo": "Sonríe Odontología · Odontólogos en Barranquilla",
+  "descripcion": "Odontología general, ortodoncia y blanqueamiento en Barranquilla. Valoración inicial y plan de tratamiento por escrito.",
+  "zona": "Barranquilla"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Sonríe Odontología S.A.S.",
+  "datos_sensibles": true
+ },
+ "integraciones": {
+  "vercel_analytics": true
+ },
+ "contacto": {
+  "whatsapp": "+57 300 555 0105",
+  "email": "hola@ejemplo.com",
+  "telefono": "+57 605 555 0105",
+  "direccion": "Calle 00 # 00-00",
+  "ciudad": "Barranquilla",
+  "web3forms_key": ""
+ },
+ "nav_cta": "Pedir cita",
+ "hero": {
+  "etiqueta": "Citas esta semana",
+  "titulo": [
+   "Tu sonrisa,",
+   "en buenas manos"
+  ],
+  "texto": "Odontología general y especializada con **plan y precio por escrito** antes de empezar.",
+  "cta": {
+   "texto": "Pedir cita"
+  }
+ },
+ "servicios": {
+  "etiqueta": "Tratamientos",
+  "titulo": [
+   "Cómo te",
+   "ayudamos"
+  ],
+  "items": [
+   {
+    "titulo": "Odontología general",
+    "texto": "Limpieza, resinas y control."
+   },
+   {
+    "titulo": "Ortodoncia",
+    "texto": "Brackets y alineadores."
+   },
+   {
+    "titulo": "Blanqueamiento",
+    "texto": "En consultorio, en una sesión."
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Atienden urgencias?",
+   "r": "Sí, escríbenos por WhatsApp y te damos la primera cita disponible."
+  },
+  {
+   "p": "¿Reciben medicina prepagada?",
+   "r": "Pregunta por tu plan; trabajamos con varias."
+  },
+  {
+   "p": "¿Puedo pagar a cuotas?",
+   "r": "Sí, en tratamientos de ortodoncia."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "Agenda tu",
+   "valoración"
+  ],
+  "cta": {
+   "texto": "Pedir cita por WhatsApp"
+  }
+ }
+}

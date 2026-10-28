@@ -1,0 +1,21 @@
+/* PLANO · blanco técnico, retícula, mono para etiquetas, mucho aire */
+:root{--bg:#ffffff;--surface:#f6f6f4;--surface2:#efefec;--ink:#111111;--muted:#6b6b68;--muted2:#a3a3a0;
+  --line:rgba(0,0,0,.09);--line2:rgba(0,0,0,.18);--surface-alt:#fafaf8;--accent:#111111;--accent-ink:#ffffff;--live:#ff5a1f;
+  --f-display:'Inter Tight',sans-serif;--f-body:'Inter',system-ui,sans-serif;--f-mono:'IBM Plex Mono',monospace;
+  --d-weight:500;--d-track:-.04em;--r:8px;--r-btn:6px;--r-ph:4px;
+  --ph-grad:linear-gradient(160deg,#e9e9e6 0%,#cfcfca 100%);}
+body{background-image:linear-gradient(var(--line) 1px,transparent 1px);background-size:100% 120px;background-attachment:fixed;}
+.chip,.sv .i,.step .n,.meta small,.nums small,.ct small,.yr{font-family:var(--f-mono);text-transform:uppercase;letter-spacing:.06em;font-size:.7rem;}
+.chip{border-radius:4px;background:var(--bg);}
+.chip::before{border-radius:1px;width:7px;height:7px;}
+.head{border-top:1px solid var(--line2);padding-top:22px;}
+.card,.sv,.step,.pk{box-shadow:none;}
+.step .n{border-radius:4px;}
+.mq-t{font-family:var(--f-mono);text-transform:uppercase;font-size:.85rem;letter-spacing:.08em;}
+.acc summary::after{border-radius:4px;}
+.cierre{background:var(--cierre-bg,#111111);}
+.cierre>.ph,.cierre::before{display:none;}
+.cierre{--ink:var(--cierre-ink,#ffffff);--muted:color-mix(in srgb,var(--cierre-ink,#fff) 65%,transparent);--line2:color-mix(in srgb,var(--cierre-ink,#fff) 25%,transparent);}
+.cierre{--g-color:color-mix(in srgb,var(--cierre-ink,#fff) 65%,transparent);}
+.cierre .btn.p{background:var(--cierre-ink,#fff);color:var(--cierre-bg,#111);}
+.pk.top{background:var(--ink);color:var(--bg);}

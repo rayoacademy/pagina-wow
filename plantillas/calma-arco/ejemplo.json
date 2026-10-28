@@ -1,0 +1,213 @@
+{
+ "plantilla": "calma-arco",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Casa Alba",
+  "lema": "Un estudio de yoga para bajar el ritmo, respirar y volver a ti. Laureles, Medellín, desde 2019."
+ },
+ "seo": {
+  "titulo": "Casa Alba · Estudio de yoga en Laureles, Medellín",
+  "descripcion": "Clases de yoga para todos los niveles en Laureles, Medellín. Grupos pequeños, profesoras certificadas y tu primera clase gratis.",
+  "zona": "Laureles, Medellín",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Casa Alba Yoga S.A.S."
+ },
+ "contacto": {
+  "whatsapp": "+57 300 555 0199",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "direccion": "Cra. 76 # 00-00",
+  "ciudad": "Medellín"
+ },
+ "nav_cta": "Reservar clase",
+ "hero": {
+  "titulo": [
+   "Vuelve a",
+   "ti misma."
+  ],
+  "texto": "Un espacio cálido para respirar hondo, moverte con calma y salir más liviana que como llegaste.",
+  "imagen": "fotos/portada.jpg",
+  "alt": "Clase de yoga en grupo en un salón con luz natural",
+  "foco": 45,
+  "cta": {
+   "texto": "Primera clase gratis"
+  },
+  "cta2": {
+   "texto": "Ver horarios",
+   "href": "#servicios"
+  }
+ },
+ "sobre": {
+  "etiqueta": "Nuestra filosofía",
+  "titulo": [
+   "Espacio para respirar,",
+   "tiempo para llegar."
+  ],
+  "bajada": "Casa Alba es un lugar suave en medio de una ciudad rápida. Creemos que el bienestar no se trata de hacer más, sino de notar lo que ya tienes.",
+  "titulo_imagen": [
+   "Nuestro",
+   "estudio"
+  ],
+  "imagen": "fotos/estudio.jpg",
+  "alt": "Salón de yoga con piso de madera y tapetes",
+  "pie": "Sala principal · capacidad 14 personas",
+  "texto": [
+   "Pensamos el estudio para que se sienta menos como un gimnasio y más como una respiración profunda: madera, luz de la tarde y grupos pequeños.",
+   "Ven como estés. Prestamos tapete, bloque y manta."
+  ],
+  "cifras": [
+   {
+    "n": "14",
+    "t": "personas por clase"
+   },
+   {
+    "n": "6",
+    "t": "años en Laureles"
+   }
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Clases",
+  "titulo": [
+   "Nuestras",
+   "clases"
+  ],
+  "items": [
+   {
+    "titulo": "Alba Flow",
+    "texto": "Secuencias suaves para empezar desde cero.",
+    "precio": "$35.000",
+    "imagen": "fotos/clase1.jpg"
+   },
+   {
+    "titulo": "Flow Interior",
+    "texto": "Más fuerza y equilibrio, siempre accesible.",
+    "precio": "$35.000",
+    "imagen": "fotos/clase2.jpg"
+   },
+   {
+    "titulo": "Yin al atardecer",
+    "texto": "Posturas largas para soltar y descansar.",
+    "precio": "$40.000",
+    "imagen": "fotos/clase3.jpg"
+   }
+  ]
+ },
+ "proceso": {
+  "etiqueta": "Tu primera vez",
+  "titulo": [
+   "Así",
+   "empiezas"
+  ],
+  "items": [
+   {
+    "titulo": "Escríbenos",
+    "texto": "Por WhatsApp te contamos horarios y apartamos tu cupo."
+   },
+   {
+    "titulo": "Llega 10 minutos antes",
+    "texto": "Te mostramos el espacio y te prestamos todo."
+   },
+   {
+    "titulo": "Respira",
+    "texto": "La primera clase es gratis y sin compromiso."
+   }
+  ]
+ },
+ "testimonios": {
+  "titulo": [
+   "Lo que",
+   "dicen"
+  ],
+  "items": [
+   {
+    "texto": "Salgo de cada clase de Alba Flow más tranquila. La comunidad es lo más lindo: te saludan por tu nombre.",
+    "nombre": "Natalia P.",
+    "rol": "Viene desde 2023"
+   },
+   {
+    "texto": "Las clases del atardecer son mi parte favorita de la semana. Estudio precioso y profesoras que de verdad te miran.",
+    "nombre": "Carolina M.",
+    "rol": "Yin al atardecer"
+   },
+   {
+    "texto": "Llegué sin poder tocarme los pies. Hoy no falto. El mejor lugar de yoga del barrio.",
+    "nombre": "Andrea K.",
+    "rol": "Flow Interior"
+   }
+  ]
+ },
+ "galeria": {
+  "etiqueta": "Diario",
+  "titulo": [
+   "Notas de",
+   "bienestar."
+  ],
+  "imagenes": [
+   {
+    "src": "fotos/galeria1.jpg",
+    "etiqueta": "Retiros",
+    "titulo": "Fuerza que fluye",
+    "texto": "Lo que pasa cuando el grupo se mueve al mismo ritmo, y por qué hacemos un retiro al mar cada año.",
+    "alt": "Grupo haciendo yoga en la playa"
+   },
+   {
+    "src": "fotos/galeria2.jpg",
+    "etiqueta": "Ritual",
+    "titulo": "Tu rincón en casa",
+    "alt": "Mujer meditando al atardecer"
+   },
+   {
+    "src": "fotos/galeria3.jpg",
+    "etiqueta": "Práctica",
+    "titulo": "La alquimia de la mañana",
+    "alt": "Mujer en postura de equilibrio"
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Necesito experiencia para empezar?",
+   "r": "No. Alba Flow está pensada para quien nunca ha hecho yoga."
+  },
+  {
+   "p": "¿Qué clase me sirve para empezar?",
+   "r": "Alba Flow o Yin al atardecer. Si dudas, escríbenos y te recomendamos."
+  },
+  {
+   "p": "¿Qué debo llevar?",
+   "r": "Ropa cómoda y agua. Tapete, bloque y manta los ponemos nosotras."
+  },
+  {
+   "p": "¿Tengo que ser flexible?",
+   "r": "Para nada. La flexibilidad llega con la práctica, no es un requisito."
+  },
+  {
+   "p": "¿Puedo cancelar o cambiar mi clase?",
+   "r": "Sí, avisando con 6 horas de anticipación."
+  },
+  {
+   "p": "¿Hay parqueadero?",
+   "r": "Hay parqueadero público a media cuadra y cicloparqueadero en la entrada."
+  }
+ ],
+ "cierre": {
+  "etiqueta": "Cuando estés lista",
+  "titulo": [
+   "Reserva tu",
+   "primera clase."
+  ],
+  "cta": {
+   "texto": "Empezar ahora"
+  }
+ },
+ "menu_nombres": {
+  "sobre": "El estudio",
+  "servicios": "Clases",
+  "proceso": "Primera vez"
+ }
+}

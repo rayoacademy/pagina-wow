@@ -1,0 +1,124 @@
+{
+ "variante": "plano-arquitecto",
+ "nivel": "experto",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Taller Ruiz Arquitectura",
+  "inicial": "R"
+ },
+ "seo": {
+  "titulo": "Taller Ruiz · Arquitectura y remodelación en Bogotá",
+  "descripcion": "Diseño arquitectónico, remodelaciones y licencias de construcción en Bogotá. Primera visita de diagnóstico sin costo.",
+  "url": "https://tallerruiz.co",
+  "zona": "Bogotá y Cundinamarca"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Taller Ruiz Arquitectura S.A.S.",
+  "id": "NIT 900.000.000-0"
+ },
+ "integraciones": {
+  "formulario": "propio",
+  "posthog": {
+   "key": "phc_REEMPLAZAR",
+   "host": "https://us.i.posthog.com",
+   "cookies": false
+  }
+ },
+ "contacto": {
+  "whatsapp": "+57 301 555 0102",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "ciudad": "Bogotá"
+ },
+ "nav_cta": "Agendar visita",
+ "hero": {
+  "etiqueta": "Agenda de proyectos 2027 abierta",
+  "titulo": [
+   "Espacios que",
+   "se construyen bien"
+  ],
+  "texto": "Diseñamos, tramitamos y acompañamos la obra. **Un solo equipo** de la idea a la entrega.",
+  "cta": {
+   "texto": "Agendar visita"
+  },
+  "cta2": {
+   "texto": "Cómo trabajamos",
+   "href": "#proceso"
+  }
+ },
+ "servicios": {
+  "etiqueta": "Servicios",
+  "titulo": [
+   "Lo que",
+   "hacemos"
+  ],
+  "items": [
+   {
+    "titulo": "Diseño arquitectónico",
+    "texto": "Planos, renders y presupuesto de obra para casa o local."
+   },
+   {
+    "titulo": "Remodelaciones",
+    "texto": "Cocinas, baños y redistribución de apartamentos."
+   },
+   {
+    "titulo": "Licencias",
+    "texto": "Trámite completo ante curaduría."
+   }
+  ]
+ },
+ "proceso": {
+  "etiqueta": "Proceso",
+  "titulo": [
+   "Cuatro pasos,",
+   "sin sorpresas"
+  ],
+  "items": [
+   {
+    "titulo": "Visita",
+    "texto": "Vemos el espacio y lo que necesitas."
+   },
+   {
+    "titulo": "Propuesta",
+    "texto": "Diseño y presupuesto por escrito."
+   },
+   {
+    "titulo": "Licencia",
+    "texto": "Nos encargamos del trámite."
+   },
+   {
+    "titulo": "Obra",
+    "texto": "Interventoría semanal hasta la entrega."
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Cuánto cuesta un diseño?",
+   "r": "Depende del área. Después de la visita te enviamos una propuesta con valor cerrado."
+  },
+  {
+   "p": "¿Trabajan fuera de Bogotá?",
+   "r": "Sí, en Cundinamarca. Otras ciudades se cotizan aparte."
+  },
+  {
+   "p": "¿Ustedes construyen?",
+   "r": "Sí, o acompañamos al constructor que tú elijas."
+  },
+  {
+   "p": "¿Cuánto tarda una licencia?",
+   "r": "Entre dos y cuatro meses según la curaduría."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "Empecemos por",
+   "una visita"
+  ],
+  "texto": "Cuéntanos qué quieres hacer y agendamos.",
+  "cta": {
+   "texto": "Escribir por WhatsApp"
+  }
+ }
+}

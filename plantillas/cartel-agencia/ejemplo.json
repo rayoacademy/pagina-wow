@@ -1,0 +1,325 @@
+{
+ "plantilla": "cartel-agencia",
+ "nivel": "experto",
+ "idioma": "es",
+ "marca": {
+  "nombre": "FuegoLab"
+ },
+ "seo": {
+  "titulo": "FuegoLab · Agencia de marketing en Medellín",
+  "descripcion": "Estrategia de marca, contenido, pauta digital y diseño para marcas que quieren crecer con datos. Agencia de marketing en Medellín.",
+  "zona": "Medellín, Bogotá y Miami",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "FuegoLab Agencia S.A.S."
+ },
+ "integraciones": {
+  "formulario": "propio"
+ },
+ "contacto": {
+  "whatsapp": "+57 300 555 0144",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "linkedin": "https://linkedin.com",
+  "ciudad": "Medellín"
+ },
+ "menu_nombres": {
+  "sobre": "Nosotros",
+  "galeria": "Casos",
+  "paquetes": "Planes"
+ },
+ "nav_cta": "Hablemos",
+ "hero": {
+  "etiqueta": "©2026",
+  "etiqueta2": "AGENCIA",
+  "nombre_grande": "Marketing",
+  "imagen": "fotos/portada.jpg",
+  "alt": "Mujer iluminada con luz roja",
+  "datos": [
+   {
+    "n": "10+",
+    "t": "años de experiencia"
+   },
+   {
+    "n": "500M+",
+    "t": "impresiones entregadas"
+   },
+   {
+    "n": "220+",
+    "t": "proyectos lanzados"
+   }
+  ],
+  "texto": "Estrategia de marca, identidad visual, campañas y pauta digital hechas para que tu marca gane mercado.",
+  "cta": {
+   "texto": "Empieza tu proyecto"
+  },
+  "cta2": {
+   "texto": "Ver casos",
+   "href": "#galeria"
+  },
+  "chips": [
+   "Clientes y posicionamiento",
+   "Pauta por resultados",
+   "Planeación de medios",
+   "Sistemas de crecimiento"
+  ]
+ },
+ "marquesina": [
+  "Identidad visual",
+  "Pauta digital",
+  "Redes sociales",
+  "SEO y crecimiento",
+  "Estrategia de marca",
+  "Marketing digital"
+ ],
+ "sobre": {
+  "titulo": [
+   "Aquí no hacemos nada genérico.",
+   "Cada marca que tocamos recibe una estrategia hecha desde cero, obsesionada con los datos y ejecutada con precisión hasta que los números se mueven."
+  ],
+  "puntos": [
+   "Desde 2016",
+   "Colombia",
+   "Estados Unidos",
+   "México"
+  ],
+  "clientes_titulo": "Nuestros clientes",
+  "clientes_texto": "Trabajamos con más de 50 marcas de comercio electrónico, servicios y negocios locales."
+ },
+ "clientes": [
+  "Café Ladera",
+  "Monte Verde",
+  "Alto Andes",
+  "Casa Brava",
+  "Nube Seguros"
+ ],
+ "proceso": {
+  "titulo": [
+   "Nuestro",
+   "proceso"
+  ],
+  "bajada": "Un marco de cuatro pasos que genera crecimiento y resultados que se pueden predecir.",
+  "items": [
+   {
+    "titulo": "Descubrir",
+    "texto": "Estudiamos tu marca, tu mercado, tu público y tu competencia para encontrar lo que otros no ven."
+   },
+   {
+    "titulo": "Estrategia",
+    "texto": "Armamos la hoja de ruta: canales, presupuesto, mensajes y metas antes de gastar un solo peso."
+   },
+   {
+    "titulo": "Ejecutar",
+    "texto": "Diseñadores, estrategas y pauta lanzan cada campaña con atención obsesiva al detalle."
+   },
+   {
+    "titulo": "Optimizar",
+    "texto": "Medimos todo, cortamos lo que no funciona y escalamos lo que sí. Reporte cada semana."
+   }
+  ]
+ },
+ "servicios": {
+  "titulo": [
+   "Lo que ofrecemos"
+  ],
+  "bajada": "Soluciones completas para construir, hacer crecer y escalar tu marca.",
+  "items": [
+   {
+    "tipo": "Servicio de marketing",
+    "titulo": "Marketing digital",
+    "imagen": "fotos/servicio.jpg",
+    "cifra": "34+ proyectos",
+    "texto": "Ordenamos tu flujo y convertimos visitas en clientes, todo el día, con campañas inteligentes y personalizadas.",
+    "chips": [
+     "Contenido",
+     "Correo y automatización",
+     "Analítica y reportes"
+    ]
+   },
+   {
+    "tipo": "Servicio de diseño",
+    "titulo": "Identidad visual"
+   },
+   {
+    "tipo": "Servicio de diseño",
+    "titulo": "Estrategia de marca"
+   },
+   {
+    "tipo": "Servicio de medios",
+    "titulo": "Planeación de medios"
+   }
+  ]
+ },
+ "galeria": {
+  "titulo": [
+   "Trabajo que entrega",
+   "resultados"
+  ],
+  "bajada": "Así ayudamos a las marcas a resolver problemas, mejorar su rendimiento y crecer.",
+  "imagenes": [
+   {
+    "src": "fotos/caso1.jpg",
+    "titulo": "Café Ladera",
+    "texto": "Sistema visual completo para una app de pedidos: tipografía, color y piezas de lanzamiento que hicieron destacar la marca.",
+    "cliente": "Café Ladera",
+    "servicios": [
+     "Identidad visual",
+     "Diseño"
+    ],
+    "alt": "Mano sosteniendo un celular con una app de comida"
+   },
+   {
+    "src": "fotos/caso2.jpg",
+    "titulo": "Nube Seguros",
+    "texto": "Campaña de pauta en Google y redes con inversión dirigida que duplicó las cotizaciones en tres meses.",
+    "cliente": "Nube Seguros",
+    "servicios": [
+     "Pauta digital",
+     "Anuncios"
+    ],
+    "alt": "Tarjetas de presentación sobre una mesa"
+   },
+   {
+    "src": "fotos/caso3.jpg",
+    "titulo": "Casa Brava",
+    "texto": "Estrategia de marca profunda: posicionamiento, público y mensajes, con un marco claro para crecer.",
+    "cliente": "Casa Brava",
+    "servicios": [
+     "Estrategia de marca",
+     "Diseño"
+    ],
+    "alt": "Empaque blanco con logo azul"
+   },
+   {
+    "src": "fotos/caso4.jpg",
+    "titulo": "Alto Andes",
+    "texto": "Plan de medios que encontró los canales correctos y los momentos de mayor impacto para su lanzamiento.",
+    "cliente": "Alto Andes",
+    "servicios": [
+     "Planeación de medios",
+     "Diseño"
+    ],
+    "alt": "Productos de cuidado de piel sobre piedras"
+   }
+  ]
+ },
+ "testimonios": {
+  "titulo": [
+   "Confían en",
+   "nosotros"
+  ],
+  "imagen": "fotos/silueta.jpg",
+  "items": [
+   {
+    "texto": "Nos daba miedo invertir en pauta. FuegoLab nos explicó cada paso y nunca nos sentimos presionados.",
+    "destacado": "Respondieron todas nuestras preguntas, por pequeñas que fueran.",
+    "nombre": "Miguel Torres",
+    "rol": "Dueño de Monte Verde"
+   },
+   {
+    "texto": "Llevábamos meses intentando crecer solos. En el primer trimestre con ellos las ventas en línea subieron 60%.",
+    "destacado": "Cada duda que tuvimos se resolvió con datos.",
+    "nombre": "Ana Morales",
+    "rol": "Gerente de producto"
+   },
+   {
+    "texto": "Llegamos sin marca clara y salimos con un sistema completo que el equipo entiende y usa.",
+    "destacado": "Explicaron todo con claridad y nos encantó el resultado.",
+    "nombre": "Jessica Chen",
+    "rol": "Fundadora de Casa Brava"
+   },
+   {
+    "texto": "Coordinaron fotos, pauta y lanzamiento mientras nosotros seguíamos operando. Impecable.",
+    "destacado": "Se encargaron de todo para que pudiéramos enfocarnos.",
+    "nombre": "Daniel Ocampo",
+    "rol": "Director comercial"
+   },
+   {
+    "texto": "Profesionales, rápidos y honestos con lo que funciona y lo que no.",
+    "destacado": "Por fin una agencia que mide.",
+    "nombre": "Emilia Rodríguez",
+    "rol": "Café Ladera"
+   }
+  ]
+ },
+ "paquetes": {
+  "titulo": [
+   "Precios simples",
+   "y transparentes"
+  ],
+  "bajada": "Escoge el plan que se ajusta a tu negocio. Sin letra pequeña.",
+  "items": [
+   {
+    "nombre": "Inicial",
+    "texto": "Para negocios pequeños.",
+    "precio": "$3.000.000",
+    "periodo": "/mes",
+    "incluye": [
+     "Portafolio de una página",
+     "Plantilla a la medida",
+     "Optimización básica de SEO",
+     "Soporte por correo"
+    ]
+   },
+   {
+    "nombre": "Crecimiento",
+    "texto": "Para negocios en expansión.",
+    "precio": "$4.500.000",
+    "periodo": "/mes",
+    "destacado": true,
+    "incluye": [
+     "Diseño a la medida",
+     "Páginas que convierten",
+     "Optimización de velocidad",
+     "Analítica y seguimiento"
+    ]
+   },
+   {
+    "nombre": "Escala",
+    "texto": "Para empresas listas para escalar.",
+    "precio": "$6.900.000",
+    "periodo": "/mes",
+    "incluye": [
+     "Diseño y sistema visual completo",
+     "Embudos de conversión",
+     "SEO avanzado",
+     "Pauta en todos los canales"
+    ]
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Cuánto tarda en verse resultado?",
+   "r": "Las campañas de pauta muestran datos desde la primera semana. Los resultados de marca y SEO se ven entre tres y seis meses."
+  },
+  {
+   "p": "¿Trabajan con negocios pequeños?",
+   "r": "Sí. El plan Inicial está pensado para negocios que apenas empiezan a invertir en marketing."
+  },
+  {
+   "p": "¿Cuál es el tiempo mínimo de contrato?",
+   "r": "Tres meses. Es lo que necesita una estrategia para mostrar resultados reales."
+  },
+  {
+   "p": "¿Cómo me entregan los reportes?",
+   "r": "Cada semana recibes un tablero en vivo y una reunión corta con los números que importan."
+  },
+  {
+   "p": "¿Hacen fotografía y video?",
+   "r": "Sí, con nuestro equipo de producción o con aliados en tu ciudad."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "¿Listos",
+   "para crecer?"
+  ],
+  "texto": "Cuéntanos de tu marca y te mostramos qué haríamos en los primeros 90 días.",
+  "cta": {
+   "texto": "Empieza tu proyecto"
+  }
+ }
+}

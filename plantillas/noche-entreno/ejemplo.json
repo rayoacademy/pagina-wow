@@ -1,0 +1,316 @@
+{
+ "plantilla": "noche-entreno",
+ "nivel": "experto",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Forma Club",
+  "lema": "El progreso no se deja a la suerte. Entrenamiento personal y online en Bogotá."
+ },
+ "seo": {
+  "titulo": "Forma Club · Entrenamiento personal en Bogotá",
+  "descripcion": "Entrenamiento personal, nutrición y seguimiento semanal en Bogotá y online. Plan hecho a tu medida y primera consulta de 30 minutos gratis.",
+  "zona": "Bogotá y online",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Forma Club S.A.S."
+ },
+ "integraciones": {
+  "formulario": "propio"
+ },
+ "contacto": {
+  "whatsapp": "+57 301 555 0177",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "direccion": "Cl. 93 # 00-00, Chicó",
+  "ciudad": "Bogotá"
+ },
+ "menu_nombres": {
+  "sobre": "Filosofía",
+  "servicios": "Programas",
+  "testimonios": "Resultados"
+ },
+ "nav_cta": "Consulta gratis",
+ "hero": {
+  "etiqueta": "Sin compromiso · consulta de 30 minutos",
+  "titulo": [
+   "Transforma tu cuerpo.",
+   "Transforma tu vida."
+  ],
+  "imagen": "fotos/portada.jpg",
+  "alt": "Personas entrenando a contraluz frente a un ventanal",
+  "texto": "Coaching personalizado de entrenamiento y nutrición, con seguimiento real y un plan hecho para ti.",
+  "cta": {
+   "texto": "Consulta gratis"
+  },
+  "cta2": {
+   "texto": "Ver resultados",
+   "href": "#testimonios"
+  }
+ },
+ "galeria": {
+  "etiqueta": "Estamos para ayudarte",
+  "titulo": [
+   "Lo que nuestros coaches",
+   "pueden hacer por ti"
+  ],
+  "bajada": "Un sistema completo de coaching pensado para personas reales. Sin plantillas genéricas: tu cuerpo, tu agenda, tus metas.",
+  "imagenes": [
+   {
+    "src": "fotos/f1.jpg",
+    "titulo": "Coaching personal",
+    "texto": "Un coach que te conoce por tu nombre.",
+    "alt": "Coach con los brazos cruzados en el gimnasio"
+   },
+   {
+    "src": "fotos/f2.jpg",
+    "titulo": "Plan de nutrición",
+    "texto": "Comidas simples que sí puedes sostener.",
+    "alt": "Recipientes con comida preparada"
+   },
+   {
+    "src": "fotos/f3.jpg",
+    "titulo": "Seguimiento de progreso",
+    "texto": "Revisamos tus datos cada semana.",
+    "alt": "Entrenador revisando una tablet con su cliente"
+   },
+   {
+    "src": "fotos/f4.jpg",
+    "titulo": "Acompañamiento diario",
+    "texto": "Mensajes y ajustes cuando los necesitas.",
+    "alt": "Hombre sentado revisando su celular en el gimnasio"
+   }
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Programas",
+  "titulo": [
+   "Llega a tus metas.",
+   "Todo lo que necesitas."
+  ],
+  "bajada": "Cada programa incluye evaluación inicial, plan personalizado y ajustes cada semana.",
+  "items": [
+   {
+    "titulo": "Entrenamiento en pareja",
+    "precio": "desde $90.000",
+    "imagen": "fotos/s1.jpg"
+   },
+   {
+    "titulo": "Boxeo funcional",
+    "precio": "desde $70.000",
+    "imagen": "fotos/s2.jpg"
+   },
+   {
+    "titulo": "Fuerza para mujeres",
+    "precio": "desde $80.000",
+    "imagen": "fotos/s3.jpg"
+   },
+   {
+    "titulo": "Personal 1 a 1",
+    "precio": "desde $120.000",
+    "imagen": "fotos/s4.jpg"
+   }
+  ]
+ },
+ "proceso": {
+  "etiqueta": "Paso a paso",
+  "titulo": [
+   "Así funciona",
+   "nuestro sistema"
+  ],
+  "bajada": "El éxito no es suerte. Son ciclos claros, análisis constante y un equipo que no deja de ajustar.",
+  "items": [
+   {
+    "titulo": "Evaluación y plan",
+    "texto": "Empezamos con una consulta para entender tu rutina, tus objetivos y tu historia de lesiones."
+   },
+   {
+    "titulo": "Arranque y seguimiento",
+    "texto": "Tu plan de entrenamiento y nutrición empieza. Cada semana revisamos tu técnica, tu progreso y tu motivación."
+   },
+   {
+    "titulo": "Ajustes y resultados",
+    "texto": "El programa cambia según cómo responde tu cuerpo: más carga, otro volumen, nueva estrategia."
+   },
+   {
+    "titulo": "Mantener y crecer",
+    "texto": "Cuando llegas a la meta, te dejamos los hábitos para que el cambio sea permanente."
+   }
+  ]
+ },
+ "sobre": {
+  "etiqueta": "Filosofía",
+  "titulo": [
+   "Coaching basado en ciencia,",
+   "no en atajos."
+  ],
+  "cta": {
+   "texto": "Conoce al equipo"
+  },
+  "texto": [
+   "Nuestro equipo lleva más de 8 años acompañando personas de todos los niveles, desde quien nunca ha pisado un gimnasio hasta atletas que compiten.",
+   "No hay programas mágicos. Hay un buen programa, bien ejecutado, con alguien que no te suelta."
+  ],
+  "imagenes": [
+   "fotos/b1.jpg",
+   "fotos/b2.jpg"
+  ],
+  "alt": "Entrenamiento de fuerza",
+  "cifras": [
+   {
+    "n": "200+",
+    "t": "personas entrenadas"
+   },
+   {
+    "n": "8+",
+    "t": "años de experiencia"
+   },
+   {
+    "n": "94%",
+    "t": "cumplen su meta"
+   },
+   {
+    "n": "4,9★",
+    "t": "calificación promedio"
+   }
+  ]
+ },
+ "testimonios": {
+  "etiqueta": "Resultados",
+  "titulo": [
+   "Personas reales.",
+   "Resultados reales."
+  ],
+  "bajada": "Cada historia es distinta. Esto es lo que pasa cuando el plan es para ti.",
+  "items": [
+   {
+    "texto": "Probé cuatro entrenadores antes. Este fue el primer programa en el que entendí de verdad por qué hacía cada ejercicio. Ese conocimiento lo cambió todo.",
+    "nombre": "Juana K.",
+    "rol": "Emprendedora",
+    "foto": "fotos/t1.jpg",
+    "datos": [
+     {
+      "n": "4x",
+      "t": "más fuerza"
+     },
+     {
+      "n": "16",
+      "t": "semanas"
+     }
+    ]
+   },
+   {
+    "texto": "En 12 semanas bajé 9 kilos y gané más energía de la que había tenido en años. La diferencia no fue solo el programa: fue tener a alguien en mi esquina todos los días.",
+    "nombre": "Sara M.",
+    "rol": "Gerente de mercadeo",
+    "foto": "fotos/t2.jpg",
+    "datos": [
+     {
+      "n": "-9 kg",
+      "t": "de peso"
+     },
+     {
+      "n": "-12%",
+      "t": "grasa corporal"
+     }
+    ]
+   },
+   {
+    "texto": "Como mamá trabajadora no tenía tiempo. Necesitaba algo que encajara en mi vida. Seis meses después terminé mi primera carrera de 10K.",
+    "nombre": "Zeynep A.",
+    "rol": "Docente",
+    "foto": "fotos/t3.jpg",
+    "datos": [
+     {
+      "n": "10K",
+      "t": "primera carrera"
+     },
+     {
+      "n": "6",
+      "t": "meses"
+     }
+    ]
+   }
+  ]
+ },
+ "paquetes": {
+  "etiqueta": "Planes",
+  "titulo": [
+   "Escoge",
+   "tu camino"
+  ],
+  "bajada": "Todos los planes incluyen consulta inicial gratis. Sin permanencia.",
+  "items": [
+   {
+    "nombre": "Arranque",
+    "texto": "Para crear la base.",
+    "precio": "$390.000",
+    "periodo": "/mes",
+    "incluye": [
+     "8 sesiones al mes",
+     "Plan de nutrición básico",
+     "Seguimiento semanal"
+    ]
+   },
+   {
+    "nombre": "Transformación",
+    "texto": "El más escogido.",
+    "precio": "$590.000",
+    "periodo": "/mes",
+    "destacado": true,
+    "incluye": [
+     "12 sesiones al mes",
+     "Nutrición completa",
+     "Revisión de técnica en video",
+     "Mensajes ilimitados"
+    ]
+   },
+   {
+    "nombre": "Élite",
+    "texto": "Máximo acompañamiento.",
+    "precio": "$890.000",
+    "periodo": "/mes",
+    "incluye": [
+     "Sesiones ilimitadas",
+     "Nutrición y suplementación",
+     "Prioridad en horarios",
+     "Análisis de composición mensual"
+    ]
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Cómo funciona el entrenamiento online?",
+   "r": "Recibes tu plan en la app, grabas tus series y tu coach te corrige cada semana por videollamada."
+  },
+  {
+   "p": "¿Necesito ser miembro de un gimnasio?",
+   "r": "No. Adaptamos el plan a lo que tengas: gimnasio, casa o parque."
+  },
+  {
+   "p": "¿Qué tan rápido veré resultados?",
+   "r": "La mayoría nota cambios en energía y fuerza en 3 a 4 semanas, y cambios visibles entre 8 y 12."
+  },
+  {
+   "p": "¿Puedo cambiar de coach?",
+   "r": "Sí, sin costo. Lo importante es que te sientas bien acompañado."
+  },
+  {
+   "p": "¿Puedo pausar o cancelar?",
+   "r": "Sí, en cualquier momento avisando antes de tu fecha de renovación."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "¿Listo para dejar de esperar",
+   "y empezar a cambiar?"
+  ],
+  "texto": "El mejor momento para empezar fue ayer. El segundo mejor es hoy. Agenda tu consulta gratis.",
+  "cta": {
+   "texto": "Agendar consulta"
+  },
+  "imagen": "fotos/b2.jpg"
+ }
+}

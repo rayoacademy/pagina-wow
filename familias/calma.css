@@ -1,0 +1,24 @@
+/* CALMA · claro y cálido, serif con itálica de acento */
+:root{--bg:#f3ece2;--surface:#fbf7f1;--surface2:#efe6da;--ink:#2a2420;--muted:#6e6155;--muted2:#a89a8c;
+  --line:rgba(42,36,32,.1);--line2:rgba(42,36,32,.18);--surface-alt:#ede4d7;--accent:#a4552f;--accent-ink:#fffaf3;--live:#7c9a6e;
+  --f-display:'Instrument Serif',serif;--f-body:'DM Sans',system-ui,sans-serif;--d-weight:400;--d-track:-.015em;--d-lh:.98;
+  --g-style:italic;--g-color:var(--accent);--hero-g:#f4d9c2;--r:26px;
+  --ph-grad:radial-gradient(90% 80% at 25% 20%,#e8d3b9 0%,#c99b78 48%,#8f5f45 100%);}
+.chip{background:color-mix(in srgb,var(--surface) 60%,transparent);}
+.chip::before{background:var(--accent);}
+.hero .chip::before{background:currentColor;}
+.head h2,.proc .stick h2,.faq h2{font-size:clamp(2.8rem,6vw,5.2rem);}
+.step h3,.sv h3,.pk h3,.ct b{font-family:var(--f-display);font-size:1.6rem;font-weight:400;letter-spacing:-.01em;}
+.nums b{font-size:clamp(2.6rem,4.2vw,3.6rem);}
+.tq blockquote{font-size:1.5rem;line-height:1.3;}
+.acc summary{font-size:1.4rem;}
+.mq-t{font-size:1.5rem;font-style:italic;}
+.nav-in{background:color-mix(in srgb,var(--surface) 72%,transparent);border-color:var(--line);backdrop-filter:blur(18px);}
+.cierre{background:var(--accent);}
+.cierre>.ph,.cierre::before{display:none;}
+.cierre{--ink:var(--accent-ink);--muted:color-mix(in srgb,var(--accent-ink) 92%,transparent);--line2:rgba(255,255,255,.35);--g-color:color-mix(in srgb,var(--accent-ink) 85%,var(--accent));}
+.cierre .btn.p{background:var(--accent-ink);color:var(--accent);}
+.cierre .chip{background:rgba(255,255,255,.14);}
+.cierre .chip::before{background:var(--accent-ink);}
+.pk.top{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);}
+.pk.top .btn.p{background:var(--accent-ink);color:var(--accent);}

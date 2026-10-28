@@ -1,0 +1,24 @@
+/* JUEGO · maximalista: bordes gruesos, sombras desplazadas, stickers girados */
+:root{--bg:#fff6e5;--surface:#ffffff;--surface2:#fff0d1;--ink:#1d1a16;--muted:#5c544a;--muted2:#9a8f80;
+  --line:#1d1a16;--line2:#1d1a16;--accent:#ff5b2e;--accent-ink:#ffffff;--live:#2ecc71;
+  --f-display:'Bagel Fat One',sans-serif;--f-body:'DM Sans',system-ui,sans-serif;--d-weight:400;--d-track:-.02em;--d-lh:.95;
+  --g-color:var(--accent);--r:22px;--sh:5px 5px 0 var(--ink);
+  --ph-grad:repeating-linear-gradient(45deg,#ffd166 0 18px,#ffc23d 18px 36px);}
+.card,.sv,.step,.pk,.ct,.vbox,.gal .ph,.sobre .ph,.tri .ph,.side-ph,.wide-ph{border:2px solid var(--ink) !important;box-shadow:var(--sh);}
+.btn{border:2px solid var(--ink);box-shadow:3px 3px 0 var(--ink);font-weight:700;}
+.btn:hover{transform:translate(-2px,-2px);box-shadow:5px 5px 0 var(--ink);}
+.chip{border:2px solid var(--ink);background:var(--surface);transform:rotate(-2deg);font-weight:600;color:var(--ink);}
+.head .chip{transform:rotate(-3deg);}
+.sv:nth-child(2n){transform:rotate(.6deg);}
+.sv:nth-child(3n){transform:rotate(-.6deg);}
+.sv h3,.step h3,.pk h3,.tq blockquote{font-family:var(--f-display);font-weight:400;}
+.mq{background:var(--accent);border-block:2px solid var(--ink);}
+.mq-t{color:var(--accent-ink);font-family:var(--f-display);font-size:1.6rem;}
+.mq-t span::after{background:var(--ink);width:10px;height:10px;}
+.acc details{border-bottom:2px solid var(--ink);}
+.nav.sc .nav-in{border:2px solid var(--ink);box-shadow:3px 3px 0 var(--ink);}
+.cierre{background:var(--accent);border:2px solid var(--ink);box-shadow:var(--sh);}
+.cierre>.ph,.cierre::before{display:none;}
+.cierre{--ink:var(--accent-ink);--g-color:#1d1a16;}
+.cierre .btn{--ink:#1d1a16;}
+.pk.top{background:var(--accent);color:var(--accent-ink);}

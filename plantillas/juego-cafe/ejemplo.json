@@ -1,0 +1,231 @@
+{
+ "plantilla": "juego-cafe",
+ "nivel": "principiante",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Mora"
+ },
+ "seo": {
+  "titulo": "Mora · Café de barrio en Laureles, Medellín",
+  "descripcion": "Café de especialidad, pan de la casa y postres en Laureles, Medellín. Abierto todos los días de 7 a.m. a 7 p.m.",
+  "zona": "Laureles, Medellín",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Mora Café S.A.S."
+ },
+ "contacto": {
+  "whatsapp": "+57 304 555 0104",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "direccion": "Cra. 70 # 00-00",
+  "ciudad": "Laureles, Medellín"
+ },
+ "nav_cta": "Pedir",
+ "hero": {
+  "nombre_grande": "mora",
+  "imagen": "fotos/portada.jpg",
+  "alt": "Mujer con sombrero y gafas tomando café",
+  "texto": "un café de barrio para buen café, comida fresca, días que empiezan solos, se vuelven sociales, dan un rodeo y terminan contigo todavía aquí.",
+  "info": [
+   "Medellín · 7:00 a.m.",
+   "Abierto todos los días · 7 a.m. a 7 p.m."
+  ]
+ },
+ "mosaico": [
+  {
+   "texto": "café cuando lo necesitas, comida cuando tienes hambre, algo dulce porque obvio, y un lugar bonito mientras el día se resuelve.",
+   "color": "cafe"
+  },
+  {
+   "src": "fotos/amigos.jpg",
+   "alt": "Dos amigos comiendo pan y riendo"
+  },
+  {
+   "titulo": "granos de especialidad.",
+   "color": "crema"
+  },
+  {
+   "src": "fotos/helado.jpg",
+   "eti": "comparte si eres buena gente",
+   "titulo": "café helado clásico",
+   "precio": "2 por $16.000",
+   "alt": "Café helado con crema"
+  },
+  {
+   "src": "fotos/postre.jpg",
+   "curva": "capuchino de cacao",
+   "alt": "Mujer comiendo un postre con café"
+  },
+  {
+   "src": "fotos/croissant.jpg",
+   "eti": "mejor en combo",
+   "titulo": "el más vendido",
+   "precio": "a $14.000",
+   "alt": "Croissant dorado"
+  },
+  {
+   "titulo": "nuevo esta semana",
+   "texto": "",
+   "color": "cafe",
+   "grande": true,
+   "cta": {
+    "texto": "ver el tablero del barrio"
+   }
+  },
+  {
+   "texto": "esto no es una clase seria de barista. es café, leche, unos cuantos intentos, algunos vertidos dudosos y el tipo de plan que es más divertido cuando nadie lo hace bien.",
+   "color": "crema",
+   "pie": [
+    "todos los sábados",
+    "10:00 a.m. a 12:00 m.",
+    "mora, laureles · 8 cupos"
+   ]
+  }
+ ],
+ "servicios": {
+  "titulo": [
+   "lo más pedido"
+  ],
+  "items": [
+   {
+    "titulo": "capuchino de cacao",
+    "tipo": "café de especialidad",
+    "texto": "espresso doble, cacao tibio y espuma sedosa. el clásico de la casa."
+   },
+   {
+    "titulo": "café moka",
+    "tipo": "café de especialidad",
+    "texto": "chocolate rico, espresso fuerte y leche sedosa, terminado con cacao."
+   },
+   {
+    "titulo": "rollo de canela",
+    "tipo": "pan de la casa",
+    "texto": "suave, esponjoso y envuelto en espirales de canela."
+   },
+   {
+    "titulo": "tiramisú",
+    "tipo": "postre",
+    "texto": "crema de mascarpone, bizcocho empapado en espresso y cacao encima."
+   },
+   {
+    "titulo": "capuchino + croissant",
+    "tipo": "combo",
+    "texto": "lo de siempre, pero mejor juntos. ideal para la mañana."
+   },
+   {
+    "titulo": "café de avellana",
+    "tipo": "café de especialidad",
+    "texto": "espresso con avellana tostada, suave y un poquito dulce."
+   }
+  ]
+ },
+ "carta": [
+  {
+   "titulo": "bebidas",
+   "items": [
+    {
+     "n": "capuchino",
+     "p": "$8.000"
+    },
+    {
+     "n": "capuchino de cacao",
+     "p": "$9.500"
+    },
+    {
+     "n": "café moka",
+     "p": "$9.500"
+    },
+    {
+     "n": "latte",
+     "p": "$8.500"
+    },
+    {
+     "n": "latte de vainilla",
+     "p": "$9.500"
+    },
+    {
+     "n": "americano",
+     "p": "$6.000"
+    },
+    {
+     "n": "café helado",
+     "p": "$9.000"
+    },
+    {
+     "n": "affogato",
+     "p": "$11.000"
+    },
+    {
+     "n": "frappé de moka",
+     "p": "$12.000"
+    }
+   ]
+  },
+  {
+   "titulo": "comida",
+   "items": [
+    {
+     "n": "croissant de mantequilla",
+     "p": "$7.000"
+    },
+    {
+     "n": "croissant de almendras",
+     "p": "$9.000"
+    },
+    {
+     "n": "pan de chocolate",
+     "p": "$7.500"
+    },
+    {
+     "n": "rollo de canela",
+     "p": "$8.000"
+    },
+    {
+     "n": "brownie",
+     "p": "$7.000"
+    },
+    {
+     "n": "tiramisú",
+     "p": "$12.000"
+    },
+    {
+     "n": "torta de zanahoria",
+     "p": "$10.000"
+    }
+   ]
+  }
+ ],
+ "carta_imagen": "fotos/local.jpg",
+ "tienda": {
+  "giro": "tienda · ",
+  "titulo": "vaso para llevar mora",
+  "texto": "vaso de doble pared hecho con material reciclado. fácil de cargar, de lavar y de traer de vuelta.",
+  "precio": "$45.000",
+  "imagen": "fotos/latte.jpg",
+  "cta": {
+   "texto": "comprar"
+  }
+ },
+ "faq": [
+  {
+   "p": "¿tienen domicilios?",
+   "r": "sí, por whatsapp en laureles y alrededores."
+  },
+  {
+   "p": "¿hay opciones sin lácteos?",
+   "r": "sí, leche de avena y de almendras sin costo extra."
+  },
+  {
+   "p": "¿se puede trabajar ahí?",
+   "r": "sí, hay wifi y enchufes en casi todas las mesas."
+  }
+ ],
+ "contacto_seccion": {
+  "titulo": [
+   "ven a vernos"
+  ],
+  "bajada": "estamos en la esquina más bonita de laureles. escríbenos para domicilios o para reservar la mesa grande."
+ }
+}

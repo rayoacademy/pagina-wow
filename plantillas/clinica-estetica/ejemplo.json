@@ -1,0 +1,248 @@
+{
+ "plantilla": "clinica-estetica",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Dermia"
+ },
+ "seo": {
+  "titulo": "Dermia · Dermatología y estética en Barranquilla",
+  "descripcion": "Dermatología médica y tratamientos estéticos en Barranquilla: acné, manchas, láser y rejuvenecimiento. Valoración inicial con dermatóloga certificada.",
+  "zona": "Barranquilla",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Dermia Clínica S.A.S.",
+  "datos_sensibles": true
+ },
+ "contacto": {
+  "whatsapp": "+57 300 555 0105",
+  "email": "hola@ejemplo.com",
+  "telefono": "+57 605 555 0105",
+  "direccion": "Cl. 00 # 00-00, Alto Prado",
+  "ciudad": "Barranquilla",
+  "web3forms_key": "00000000-0000-0000-0000-000000000000"
+ },
+ "menu_nombres": {
+  "sobre": "Clínica",
+  "servicios": "Tratamientos",
+  "proceso": "Dermatología",
+  "testimonios": "Pacientes"
+ },
+ "nav_cta": "Agendar valoración",
+ "hero": {
+  "titulo": [
+   "Piel sana y segura",
+   "empieza aquí"
+  ],
+  "texto": "Dermatología avanzada y tratamientos estéticos modernos pensados para cuidar tu piel.",
+  "imagen": "fotos/portada.jpg",
+  "alt": "Cuello y hombro con luz cálida",
+  "datos": [
+   {
+    "n": "4,9",
+    "t": "más de 300 reseñas"
+   }
+  ],
+  "arco": [
+   "Láser",
+   "Acné y manchas",
+   "Rejuvenecimiento",
+   "Bótox",
+   "Hidratación",
+   "Peeling"
+  ],
+  "muesca": "Ver tratamientos"
+ },
+ "sobre": {
+  "etiqueta": "Cuidado experto para tu piel",
+  "bajada": "Unimos la dermatología médica con tratamientos estéticos avanzados para ayudarte a tener una piel clara, sana y naturalmente radiante.",
+  "iconos": [
+   "estéticos",
+   "naturalmente"
+  ],
+  "etiqueta2": "Excelencia en dermatología",
+  "titulo": [
+   "Una clínica",
+   "comprometida"
+  ],
+  "texto": [
+   "Creemos que una buena piel empieza por entenderla. Cada tratamiento arranca con una consulta detallada, un plan a largo plazo y cuidado basado en evidencia."
+  ],
+  "imagen": "fotos/doctora.jpg",
+  "alt": "Dermatóloga con bata blanca",
+  "firma": {
+   "nombre": "Dra. Mariana Pérez",
+   "rol": "Dermatóloga y especialista en estética"
+  },
+  "puntos": [
+   "Métodos respaldados por la ciencia",
+   "Equipo certificado y con experiencia",
+   "Cuidado personalizado para tu tipo de piel"
+  ],
+  "cta": {
+   "texto": "Conoce nuestro método"
+  }
+ },
+ "galeria": {
+  "imagenes": [
+   {
+    "src": "fotos/f1.jpg",
+    "alt": "Tratamiento facial con mascarilla"
+   },
+   {
+    "src": "fotos/f2.jpg",
+    "alt": "Mujer con los ojos cerrados y luz natural"
+   },
+   {
+    "src": "fotos/f3.jpg",
+    "alt": "Paciente con crema en el rostro"
+   },
+   {
+    "src": "fotos/f4.jpg",
+    "alt": "Mujer de perfil con piel luminosa"
+   }
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Servicios",
+  "titulo": [
+   "Nuestros tratamientos"
+  ],
+  "items": [
+   {
+    "titulo": "Acné y salud de la piel",
+    "texto": "Cuidado dermatológico personalizado para acné, manchas y mantenimiento a largo plazo.",
+    "detalle": [
+     "Valoración, diagnóstico y plan por escrito.",
+     "Controles mensuales para ajustar el tratamiento."
+    ]
+   },
+   {
+    "titulo": "Bótox y rellenos",
+    "texto": "Mejoras sutiles que refrescan tu rostro sin cambiar quién eres.",
+    "detalle": [
+     "Aplicado solo por médicas certificadas."
+    ]
+   },
+   {
+    "titulo": "Tratamientos láser",
+    "texto": "Láser avanzado para vello, manchas, textura y cicatrices.",
+    "detalle": [
+     "Sesiones de 20 a 45 minutos según la zona."
+    ]
+   },
+   {
+    "titulo": "Rejuvenecimiento",
+    "texto": "Líneas, volumen y piel apagada con tratamientos seguros y probados.",
+    "detalle": [
+     "Combinamos técnicas para resultados naturales."
+    ]
+   }
+  ]
+ },
+ "bento": {
+  "etiqueta": "Por qué nos eligen",
+  "titulo": [
+   "Cuidado que te pone",
+   "a ti primero"
+  ],
+  "imagen": "fotos/bento.jpg",
+  "alt": "Mujer con toalla y piel luminosa",
+  "pie": "Resultados reales, sin filtros",
+  "texto": "Una experiencia tranquila de principio a fin",
+  "texto2": "A la medida de tu piel",
+  "cifras": [
+   {
+    "n": "10+",
+    "t": "años de experiencia médica",
+    "fondo": "Desde 2016"
+   },
+   {
+    "n": "99%",
+    "t": "pacientes que nos recomiendan"
+   }
+  ],
+  "cta": {
+   "titulo": "Análisis de piel",
+   "bajada": "Valoración con dermatóloga sin costo",
+   "texto": "Agendar"
+  }
+ },
+ "proceso": {
+  "etiqueta": "Dermatología médica",
+  "titulo": [
+   "Cuidado respaldado por la ciencia",
+   "para todo tipo de piel"
+  ],
+  "bajada": "Del acné y el eccema a las manchas y la psoriasis: diagnóstico preciso, planes a largo plazo y acompañamiento constante.",
+  "imagen": "fotos/ciencia.jpg",
+  "alt": "Paciente recibiendo un tratamiento facial",
+  "pie": "Consulta por WhatsApp los 7 días",
+  "items": [
+   {
+    "titulo": "Acné y brotes"
+   },
+   {
+    "titulo": "Afecciones crónicas de la piel"
+   },
+   {
+    "titulo": "Eccema y dermatitis"
+   },
+   {
+    "titulo": "Manchas y pigmentación"
+   }
+  ]
+ },
+ "testimonios": {
+  "titulo": [
+   "Lo que dicen",
+   "nuestras pacientes"
+  ],
+  "imagen": "fotos/opinion.jpg",
+  "pie": "calificación de pacientes",
+  "items": [
+   {
+    "texto": "La atención personalizada hizo toda la diferencia. No me apuraron y armaron un plan que por fin funcionó.",
+    "nombre": "Olivia C.",
+    "rol": "Directora creativa",
+    "foto": "fotos/av1.jpg"
+   },
+   {
+    "texto": "Mi acné por fin mejoró después de años de probarlo todo. El tratamiento fue simple, claro y efectivo.",
+    "nombre": "Sofía H.",
+    "rol": "Actriz"
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Necesito orden médica para pedir cita?",
+   "r": "No. Puedes agendar directamente tu valoración por WhatsApp."
+  },
+  {
+   "p": "¿Los tratamientos duelen?",
+   "r": "La mayoría son tolerables y usamos anestesia tópica cuando hace falta."
+  },
+  {
+   "p": "¿Atienden por medicina prepagada?",
+   "r": "Sí, con varias prepagadas. Pregúntanos por la tuya."
+  },
+  {
+   "p": "¿Cuánto dura la valoración?",
+   "r": "Alrededor de 40 minutos, con diagnóstico y plan por escrito."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "Tu piel merece",
+   "una buena primera cita"
+  ],
+  "texto": "Agenda tu valoración con dermatóloga y sal con un plan claro para tu piel.",
+  "imagen": "fotos/manos.jpg",
+  "cta": {
+   "texto": "Agendar valoración"
+  }
+ }
+}

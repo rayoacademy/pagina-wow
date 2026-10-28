@@ -1,0 +1,69 @@
+{
+ "plantilla": "pulso-lanzamiento",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Lumo"
+ },
+ "seo": {
+  "titulo": "Lumo · El despertador que te levanta con luz",
+  "descripcion": "Lumo es una lámpara despertador que simula el amanecer para que te levantes sin sobresaltos. Únete a la lista de espera.",
+  "zona": "Colombia y México"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Lumo S.A.S."
+ },
+ "contacto": {
+  "email": "hola@ejemplo.com",
+  "instagram": "@lumo.ejemplo",
+  "web3forms_key": "00000000-0000-0000-0000-000000000000"
+ },
+ "hero": {
+  "etiqueta": "llega en 2027",
+  "titulo": [
+   "Despierta con luz.",
+   "No con alarma."
+  ],
+  "texto": "Únete a la lista y sé de las primeras personas en probar Lumo.",
+  "cta": {
+   "texto": "Avísame"
+  },
+  "fecha": "2027-01-15T09:00:00-05:00"
+ },
+ "servicios": {
+  "titulo": [
+   "Hecho para",
+   "tus mañanas"
+  ],
+  "bajada": "Una lámpara pequeña que se enciende poco a poco antes de tu hora.",
+  "items": [
+   {
+    "titulo": "Amanecer de 30 minutos",
+    "texto": "La luz sube despacio y tu cuerpo se despierta solo, sin el susto del timbre."
+   },
+   {
+    "titulo": "Sonidos suaves",
+    "texto": "Si quieres, al final suena agua o pájaros, nunca un pitido."
+   },
+   {
+    "titulo": "Sin app obligatoria",
+    "texto": "Se programa con dos botones. La app es opcional."
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Cuándo sale Lumo?",
+   "r": "La primera tanda llega a inicios de 2027. Las personas de la lista lo reciben primero."
+  },
+  {
+   "p": "¿Cuánto va a costar?",
+   "r": "El precio se anuncia primero a la lista de espera, con un descuento de lanzamiento."
+  },
+  {
+   "p": "¿Unirme me obliga a comprar?",
+   "r": "No. Solo te avisamos cuando esté listo."
+  }
+ ]
+}

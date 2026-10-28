@@ -1,0 +1,11 @@
+{
+ "id": "clinica-confianza",
+ "nombre": "Clínica Confianza",
+ "familia": "clinica",
+ "inspiracion": "consultpro (lenguaje visual, código propio)",
+ "se_siente": "servicio profesional sereno y serio: blanco roto, negro, sans ligera, fotos de personas reales",
+ "firma": ["foto a sangre con titular en dos pesos", "frase con mini foto en píldora y avatares", "tres tarjetas de cifras", "seis servicios con ícono", "foto grande con título encima", "por qué elegirnos en acordeón junto a una foto", "equipo con esquina recortada y flecha", "cierre oscuro con foto"],
+ "para": "centros médicos, consultorios, abogados, contadores, notarías, aseguradoras, consultoras",
+ "fotos": {"portada": "horizontal con personas atendiendo", "sobre.imagen": "detalle pequeño para la píldora", "pausa.imagen": "foto grande del equipo o del servicio", "proceso.imagen": "vertical o cuadrada", "equipo.items[].foto": "retratos verticales", "cierre.imagen": "espacio oscuro"},
+ "fuentes": "family=Figtree:wght@300;400;500;600"
+}

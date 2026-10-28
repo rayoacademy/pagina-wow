@@ -1,0 +1,235 @@
+{
+ "familia": "noche",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Andrés Mora",
+  "inicial": "A"
+ },
+ "seo": {
+  "titulo": "Andrés Mora · Entrenador personal en Bogotá",
+  "descripcion": "Entrenamiento personal y online con plan de fuerza, nutrición y seguimiento semanal. Primera sesión de evaluación gratis."
+ },
+ "contacto": {
+  "whatsapp": "+57 300 123 4567",
+  "instagram": "@negocio.ejemplo",
+  "email": "hola@ejemplo.com",
+  "ciudad": "Bogotá"
+ },
+ "nav_cta": "Reservar evaluación",
+ "hero": {
+  "etiqueta": "Cupos abiertos · Noviembre",
+  "titulo": [
+   "Entrena con un plan.",
+   "No con suerte."
+  ],
+  "texto": "Entrenamiento personal en Bogotá y online. **Fuerza, nutrición y seguimiento semanal** para que por fin veas el cambio y no lo pierdas.",
+  "cta": {
+   "texto": "Reservar evaluación gratis"
+  },
+  "cta2": {
+   "texto": "Ver planes",
+   "href": "#paquetes"
+  },
+  "datos": [
+   {
+    "t": "Años entrenando",
+    "n": "9"
+   },
+   {
+    "t": "Personas acompañadas",
+    "n": "240+"
+   },
+   {
+    "t": "Sesión de evaluación",
+    "n": "Gratis"
+   },
+   {
+    "t": "Modalidad",
+    "n": "Presencial · Online"
+   }
+  ]
+ },
+ "marquesina": [
+  "Fuerza",
+  "Pérdida de grasa",
+  "Postura",
+  "Rendimiento",
+  "Hábitos que se quedan"
+ ],
+ "sobre": {
+  "etiqueta": "Sobre mí",
+  "titulo": [
+   "Te entreno como",
+   "si fuera para mí"
+  ],
+  "bajada": "Sin rutinas genéricas ni planes de internet.",
+  "texto": [
+   "Soy entrenador certificado y llevo nueve años trabajando con personas que ya probaron de todo. Mi método junta **fuerza progresiva**, una nutrición que puedes sostener y una revisión cada semana.",
+   "No vendo milagros. Te doy un plan claro, te explico por qué haces cada ejercicio y lo ajusto según cómo responde tu cuerpo."
+  ],
+  "cifras": [
+   {
+    "n": "9",
+    "t": "años de experiencia"
+   },
+   {
+    "n": "240+",
+    "t": "personas entrenadas"
+   },
+   {
+    "n": "92%",
+    "t": "renueva el segundo mes"
+   },
+   {
+    "n": "1:1",
+    "t": "seguimiento directo"
+   }
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Servicios",
+  "titulo": [
+   "Lo que hacemos",
+   "juntos"
+  ],
+  "bajada": "Escoge cómo quieres entrenar. Todo incluye plan personalizado.",
+  "items": [
+   {
+    "titulo": "Entrenamiento presencial",
+    "texto": "Sesiones 1 a 1 en el estudio, con técnica corregida en tiempo real."
+   },
+   {
+    "titulo": "Coaching online",
+    "texto": "Tu plan en la app, videos de cada ejercicio y revisión semanal por videollamada."
+   },
+   {
+    "titulo": "Plan de nutrición",
+    "texto": "Comida real, sin dietas imposibles. Ajustado a tu horario y a lo que te gusta."
+   }
+  ]
+ },
+ "proceso": {
+  "etiqueta": "Cómo funciona",
+  "titulo": [
+   "Cuatro pasos,",
+   "cero improvisación"
+  ],
+  "bajada": "Así se ve tu primer mes.",
+  "items": [
+   {
+    "titulo": "Evaluación",
+    "texto": "Medimos fuerza, movilidad y hábitos. Hablamos de tu meta real."
+   },
+   {
+    "titulo": "Plan a tu medida",
+    "texto": "Diseño tu entrenamiento y tu nutrición para tu semana, no para la de otro."
+   },
+   {
+    "titulo": "Seguimiento semanal",
+    "texto": "Cada semana revisamos números y sensaciones, y ajustamos."
+   },
+   {
+    "titulo": "Resultados que duran",
+    "texto": "Construimos hábitos para que el cambio se quede cuando terminemos."
+   }
+  ]
+ },
+ "testimonios": {
+  "etiqueta": "Testimonios",
+  "titulo": [
+   "Lo que dicen",
+   "quienes entrenan conmigo"
+  ],
+  "items": [
+   {
+    "texto": "Probé tres gimnasios antes. Con Andrés entendí por qué hacía cada ejercicio y en cuatro meses subí todo.",
+    "nombre": "Camila R.",
+    "rol": "Abogada"
+   },
+   {
+    "texto": "Trabajo hasta tarde y el plan online fue lo único que logré sostener. Bajé 9 kilos sin pasar hambre.",
+    "nombre": "Julián P.",
+    "rol": "Ingeniero"
+   },
+   {
+    "texto": "Llegué con dolor de espalda. Hoy levanto más que nunca y sin dolor.",
+    "nombre": "Marta S.",
+    "rol": "Diseñadora"
+   }
+  ]
+ },
+ "paquetes": {
+  "etiqueta": "Precios",
+  "titulo": [
+   "Escoge",
+   "tu plan"
+  ],
+  "bajada": "Todos empiezan con una evaluación gratis.",
+  "items": [
+   {
+    "nombre": "Online",
+    "texto": "Para entrenar donde estés.",
+    "precio": "$290.000",
+    "periodo": "/mes",
+    "incluye": [
+     "Plan en la app",
+     "Videos de cada ejercicio",
+     "Revisión semanal"
+    ]
+   },
+   {
+    "nombre": "Presencial",
+    "texto": "El más completo.",
+    "precio": "$690.000",
+    "periodo": "/mes",
+    "destacado": true,
+    "incluye": [
+     "8 sesiones 1 a 1",
+     "Plan de nutrición",
+     "WhatsApp directo",
+     "Revisión semanal"
+    ]
+   },
+   {
+    "nombre": "Nutrición",
+    "texto": "Solo el plan de comida.",
+    "precio": "$180.000",
+    "periodo": "/mes",
+    "incluye": [
+     "Plan personalizado",
+     "Lista de mercado",
+     "Ajuste cada 15 días"
+    ]
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Necesito experiencia?",
+   "r": "No. El plan se arma desde tu punto de partida, empieces de cero o vengas entrenando."
+  },
+  {
+   "p": "¿Dónde es el entrenamiento presencial?",
+   "r": "En un estudio privado en Chapinero, Bogotá."
+  },
+  {
+   "p": "¿Cómo funciona el online?",
+   "r": "Recibes tu plan en una app, con video de cada ejercicio, y nos vemos por videollamada cada semana."
+  },
+  {
+   "p": "¿Puedo pausar?",
+   "r": "Sí, avisando con una semana de anticipación."
+  }
+ ],
+ "cierre": {
+  "etiqueta": "Primera sesión gratis",
+  "titulo": [
+   "El mejor momento",
+   "es esta semana"
+  ],
+  "texto": "Agenda tu evaluación y sales con un plan claro, aunque no sigas conmigo.",
+  "cta": {
+   "texto": "Reservar por WhatsApp"
+  }
+ }
+}

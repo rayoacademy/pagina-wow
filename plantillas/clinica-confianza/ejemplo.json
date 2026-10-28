@@ -1,0 +1,211 @@
+{
+ "plantilla": "clinica-confianza",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Centro Médico Norte",
+  "lema": "Medicina general y especializada con citas el mismo día y atención que te explica todo."
+ },
+ "seo": {
+  "titulo": "Centro Médico Norte · Medicina general en Bogotá",
+  "descripcion": "Medicina general, pediatría, medicina interna y chequeos ejecutivos en el norte de Bogotá. Citas el mismo día y atención por prepagada.",
+  "zona": "Norte de Bogotá",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Centro Médico Norte S.A.S.",
+  "datos_sensibles": true
+ },
+ "contacto": {
+  "whatsapp": "+57 601 555 0188",
+  "email": "hola@ejemplo.com",
+  "telefono": "+57 601 555 0188",
+  "direccion": "Cl. 127 # 00-00",
+  "ciudad": "Bogotá"
+ },
+ "menu_nombres": {
+  "sobre": "Nosotros",
+  "servicios": "Especialidades",
+  "proceso": "Por qué elegirnos",
+  "testimonios": "Pacientes"
+ },
+ "nav_cta": "Pedir cita",
+ "hero": {
+  "titulo": [
+   "Atención médica",
+   "que te explica todo"
+  ],
+  "texto": "Medicina general y especializada con citas el mismo día, resultados claros y médicos que se toman el tiempo de escucharte.",
+  "imagen": "fotos/portada.jpg",
+  "alt": "Doctora conversando con una paciente"
+ },
+ "sobre": {
+  "etiqueta": "Médicos de confianza",
+  "bajada": "Un equipo médico que te ayuda a prevenir, entender y tratar lo que sientes, con diagnósticos claros y seguimiento real.",
+  "pildora_tras": "entender",
+  "imagen": "fotos/pildora.jpg",
+  "prueba": "Más de 4.000 pacientes confían en nosotros",
+  "cifras": [
+   {
+    "n": "98%",
+    "t": "Pacientes satisfechos"
+   },
+   {
+    "n": "20K+",
+    "t": "Consultas atendidas"
+   },
+   {
+    "n": "15+",
+    "t": "Años de experiencia"
+   }
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Especialidades",
+  "titulo": [
+   "Atención completa",
+   "para toda la familia"
+  ],
+  "bajada": "Consulta, exámenes y seguimiento en un mismo lugar, para que no tengas que ir de un sitio a otro.",
+  "items": [
+   {
+    "titulo": "Medicina general",
+    "texto": "Consulta, diagnóstico y control de enfermedades frecuentes, con cita el mismo día."
+   },
+   {
+    "titulo": "Chequeo ejecutivo",
+    "texto": "Exámenes completos en una mañana y resultados explicados por tu médico."
+   },
+   {
+    "titulo": "Medicina interna",
+    "texto": "Manejo de hipertensión, diabetes y enfermedades crónicas con seguimiento."
+   },
+   {
+    "titulo": "Pediatría",
+    "texto": "Controles de crecimiento, vacunas y consulta para niños y adolescentes."
+   },
+   {
+    "titulo": "Nutrición clínica",
+    "texto": "Planes de alimentación para controlar peso, colesterol y glucosa."
+   },
+   {
+    "titulo": "Telemedicina",
+    "texto": "Consulta por videollamada y fórmulas digitales sin salir de casa."
+   }
+  ]
+ },
+ "pausa": {
+  "imagen": "fotos/banda.jpg",
+  "alt": "Médico conversando con una paciente hospitalizada",
+  "etiqueta": "Atención hospitalaria",
+  "titulo": "Acompañamiento de principio a fin",
+  "texto": "Si necesitas hospitalización o cirugía, tu médico te acompaña y coordina todo con la clínica."
+ },
+ "proceso": {
+  "etiqueta": "Por qué elegirnos",
+  "titulo": [
+   "Atención que se sostiene",
+   "en el tiempo"
+  ],
+  "imagen": "fotos/porque.jpg",
+  "alt": "Médico sonriendo en su consultorio",
+  "items": [
+   {
+    "titulo": "Citas el mismo día",
+    "texto": "Si pides cita antes de las 10 a.m., te atendemos ese mismo día."
+   },
+   {
+    "titulo": "Resultados explicados",
+    "texto": "Tu médico te llama para explicarte cada resultado y los pasos a seguir."
+   },
+   {
+    "titulo": "Un médico que te conoce",
+    "texto": "Siempre te atiende el mismo médico, que conoce tu historia."
+   },
+   {
+    "titulo": "Prepagadas y particular",
+    "texto": "Trabajamos con las principales prepagadas y tarifas claras para particulares."
+   }
+  ]
+ },
+ "equipo": {
+  "etiqueta": "Equipo",
+  "titulo": [
+   "Conoce a los médicos",
+   "detrás de tu cuidado"
+  ],
+  "bajada": "Médicos con experiencia, formación actualizada y tiempo para escucharte.",
+  "items": [
+   {
+    "nombre": "Dr. Jorge Medina",
+    "rol": "Director médico",
+    "foto": "fotos/m1.jpg"
+   },
+   {
+    "nombre": "Dra. Paula Rincón",
+    "rol": "Medicina interna",
+    "foto": "fotos/m2.jpg"
+   },
+   {
+    "nombre": "Dr. Andrés Lara",
+    "rol": "Medicina general",
+    "foto": "fotos/m3.jpg"
+   }
+  ]
+ },
+ "testimonios": {
+  "etiqueta": "Pacientes",
+  "titulo": [
+   "Lo que dicen",
+   "nuestros pacientes"
+  ],
+  "items": [
+   {
+    "texto": "Me atendieron el mismo día y el médico me explicó todo con calma. Por fin entendí mis exámenes.",
+    "nombre": "Martha S.",
+    "rol": "Paciente desde 2022"
+   },
+   {
+    "texto": "El chequeo ejecutivo fue rapidísimo y los resultados llegaron con una llamada del médico.",
+    "nombre": "David R.",
+    "rol": "Chequeo ejecutivo"
+   },
+   {
+    "texto": "Llevo a mis hijos desde bebés. La pediatra los conoce y eso no tiene precio.",
+    "nombre": "Érica B.",
+    "rol": "Mamá de dos"
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Atienden por prepagada?",
+   "r": "Sí, trabajamos con las principales prepagadas. Pregunta por la tuya al agendar."
+  },
+  {
+   "p": "¿Cómo pido una cita el mismo día?",
+   "r": "Escríbenos por WhatsApp antes de las 10 a.m. y te asignamos un horario."
+  },
+  {
+   "p": "¿Hacen exámenes de laboratorio?",
+   "r": "Sí, tomamos muestras en la sede y los resultados llegan en 24 a 48 horas."
+  },
+  {
+   "p": "¿Puedo tener consulta virtual?",
+   "r": "Sí, por videollamada, con fórmula digital válida en cualquier farmacia."
+  }
+ ],
+ "cierre": {
+  "etiqueta": "Empieza hoy",
+  "titulo": [
+   "¿Listo para cuidar",
+   "tu salud con calma?"
+  ],
+  "texto": "Agenda tu cita y recibe atención de médicos que se toman el tiempo de explicarte.",
+  "imagen": "fotos/cierre.jpg",
+  "cta": {
+   "texto": "Pedir cita"
+  }
+ }
+}

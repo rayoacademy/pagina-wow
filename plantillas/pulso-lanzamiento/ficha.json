@@ -1,0 +1,11 @@
+{
+ "id": "pulso-lanzamiento",
+ "nombre": "Pulso Lanzamiento",
+ "familia": "pulso",
+ "inspiracion": "waitlistkit (lenguaje visual, código propio)",
+ "se_siente": "lista de espera luminosa: aurora de turquesa, verde y azul, estrella de cuatro puntas, una sola acción",
+ "firma": ["aurora animada a pantalla completa", "estrella de cuatro puntas detrás del título", "titular en dos tonos", "correo y botón unidos en una cápsula", "cuenta regresiva", "beneficios en vidrio"],
+ "para": "lanzamientos, listas de espera, apps nuevas, cursos por abrir, preventas, eventos",
+ "fotos": {"ninguna": "no necesita fotos; la aurora es CSS"},
+ "fuentes": "family=Inter:wght@400;500;600;700"
+}

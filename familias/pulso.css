@@ -1,0 +1,18 @@
+/* PULSO · color y gradiente, energía, tipografía gruesa redondeada */
+:root{--bg:#fff4ef;--surface:rgba(255,255,255,.62);--surface2:rgba(255,255,255,.8);--ink:#1a0f0a;--muted:#6b5047;--muted2:#a88a80;
+  --line:rgba(26,15,10,.08);--line2:rgba(26,15,10,.16);--accent:#1a0f0a;--accent-ink:#ffffff;--live:#ff3d6e;
+  --f-display:'Manrope',sans-serif;--f-body:'Manrope',system-ui,sans-serif;--d-weight:800;--d-track:-.05em;--d-lh:.92;
+  --g-color:var(--ink);--r:28px;--page-grad:linear-gradient(160deg,#ff9a8b 0%,#ff6a88 45%,#ff99ac 100%);
+  --ph-grad:var(--page-grad);}
+body{background:var(--bg);}
+.hero{background:var(--page-grad);}
+.hero .g{opacity:.55;}
+.card,.sv,.step,.pk{backdrop-filter:blur(14px);}
+.alt{background:transparent;}
+.chip{background:rgba(255,255,255,.5);}
+.sv h3,.step h3,.pk h3{font-weight:800;letter-spacing:-.03em;}
+.mq{background:var(--ink);border:0;}
+.mq-t{color:#fff;font-weight:800;font-size:1.4rem;}
+.mq-t span::after{background:var(--live);}
+.cierre{background:var(--page-grad);}
+.cierre>.ph,.cierre::before{display:none;}

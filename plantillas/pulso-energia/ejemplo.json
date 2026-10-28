@@ -1,0 +1,223 @@
+{
+ "plantilla": "pulso-energia",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Vibra",
+  "lema": "Coaching de entrenamiento y nutrición para mujeres, en línea y en Cali."
+ },
+ "seo": {
+  "titulo": "Vibra · Entrenamiento online para mujeres en Cali",
+  "descripcion": "Entrenamiento personalizado, nutrición y acompañamiento real, en línea o en Cali. Programas de fuerza, movilidad y pérdida de grasa.",
+  "zona": "Cali y online",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO"
+ },
+ "contacto": {
+  "whatsapp": "+57 315 555 0103",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "tiktok": "@negocio.ejemplo",
+  "ciudad": "Cali",
+  "web3forms_key": "00000000-0000-0000-0000-000000000000"
+ },
+ "menu_nombres": {
+  "servicios": "Programas",
+  "proceso": "Cómo funciona",
+  "testimonios": "Historias"
+ },
+ "nav_cta": "Empieza hoy",
+ "hero": {
+  "etiqueta": "Excelente 4,9 de 5 en Google",
+  "titulo": [
+   "Más fuerte.",
+   "Más sana.",
+   "Tú."
+  ],
+  "imagen": "fotos/portada.jpg",
+  "alt": "Mujer con los brazos cruzados sobre fondo liso",
+  "foco": 18,
+  "texto": "Transforma tu cuerpo y tu forma de pensar con coaching en línea experto, entrenamiento personalizado, resultados reales y acompañamiento estés donde estés.",
+  "cta": {
+   "texto": "Empieza tu proceso"
+  }
+ },
+ "equipo": {
+  "palabra": [
+   "Conoce",
+   "al equipo"
+  ],
+  "items": [
+   {
+    "nombre": "Camila Rojas",
+    "rol": "Pérdida de peso y nutrición",
+    "foto": "fotos/coach2.jpg"
+   },
+   {
+    "nombre": "Mateo Vélez",
+    "rol": "Fuerza y acondicionamiento",
+    "foto": "fotos/coach1.jpg"
+   },
+   {
+    "nombre": "Valentina Ruiz",
+    "rol": "Movilidad y recuperación",
+    "foto": "fotos/coach3.jpg"
+   }
+  ],
+  "cifras": [
+   {
+    "n": "420+",
+    "t": "Mujeres acompañadas"
+   },
+   {
+    "n": "3,2K+",
+    "t": "Sesiones completadas"
+   },
+   {
+    "n": "27M+",
+    "t": "Calorías quemadas"
+   }
+  ]
+ },
+ "servicios": {
+  "titulo": [
+   "Programas que",
+   "se ajustan a ti"
+  ],
+  "bajada": "Cada programa empieza con una evaluación y se ajusta cada semana según tu progreso.",
+  "items": [
+   {
+    "titulo": "Fuerza y músculo",
+    "imagen": "fotos/p1.jpg",
+    "texto": "Gana fuerza, resistencia y músculo con rutinas progresivas diseñadas para tu nivel y tus metas.",
+    "incluye": [
+     "Programas de fuerza a la medida",
+     "Progresión de cargas",
+     "Técnica y prevención de lesiones"
+    ]
+   },
+   {
+    "titulo": "Movilidad y recuperación",
+    "imagen": "fotos/p2.jpg",
+    "texto": "Mejora tu flexibilidad, previene lesiones y muévete mejor cada día con sesiones enfocadas en movilidad.",
+    "incluye": [
+     "Rutinas de movilidad",
+     "Planes de recuperación",
+     "Técnicas para prevenir lesiones"
+    ]
+   },
+   {
+    "titulo": "Pérdida de grasa",
+    "imagen": "fotos/p3.jpg",
+    "texto": "Quema grasa, acelera tu metabolismo y logra un cambio sostenible con entrenamiento y nutrición.",
+    "incluye": [
+     "Planes de entrenamiento para quemar grasa",
+     "Estrategias de nutrición sostenibles",
+     "Seguimiento semanal"
+    ]
+   }
+  ]
+ },
+ "pausa": {
+  "imagen": "fotos/articulo.jpg",
+  "alt": "Mujer estirando en un tapete",
+  "etiqueta": "Último artículo",
+  "titulo": "Más fuerte cada día.",
+  "texto": "Supera tus límites, gana fuerza y mantén la constancia. Camila te cuenta los ejercicios clave para mejorar tu rendimiento sin lesionarte.",
+  "href": "#contacto",
+  "cta": "Leer artículo"
+ },
+ "proceso": {
+  "items": [
+   {
+    "titulo": "Escoge tu programa",
+    "texto": "Elige el plan que va con tus metas: fuerza, pérdida de peso o movilidad."
+   },
+   {
+    "titulo": "Recibe tu plan personal",
+    "texto": "Tu coach diseña un plan de entrenamiento y nutrición pensado para tus necesidades."
+   },
+   {
+    "titulo": "Entrena cuando quieras",
+    "texto": "Accede a tus rutinas, sigue tu progreso y habla con tu coach desde cualquier lugar."
+   },
+   {
+    "titulo": "Siente los resultados",
+    "texto": "Mantén la constancia, sigue tus avances y celebra tu transformación."
+   }
+  ]
+ },
+ "faq_titulo": [
+  "¿Preguntas?",
+  "Tenemos respuestas."
+ ],
+ "faq_bajada": "Lo que más nos preguntan sobre Vibra, los planes y cómo empezar.",
+ "faq": [
+  {
+   "p": "¿Qué es Vibra?",
+   "r": "Una plataforma de coaching en línea para ayudarte a llegar a tus metas con entrenamiento personalizado, nutrición y una comunidad que te acompaña."
+  },
+  {
+   "p": "¿Quiénes son las coaches?",
+   "r": "Entrenadoras certificadas en fuerza, nutrición deportiva y movilidad, con años de experiencia acompañando mujeres."
+  },
+  {
+   "p": "¿Cómo funciona el coaching en línea?",
+   "r": "Recibes tu plan en la app, registras tus entrenamientos y tu coach te corrige y ajusta cada semana."
+  },
+  {
+   "p": "¿Necesito equipo?",
+   "r": "No. Adaptamos todo a lo que tengas: gimnasio, casa o parque."
+  },
+  {
+   "p": "¿Pueden empezar principiantes?",
+   "r": "Sí. La mayoría de nuestras clientas empezaron desde cero."
+  },
+  {
+   "p": "¿Puedo cambiar de plan después?",
+   "r": "Sí, cuando quieras y sin costo."
+  }
+ ],
+ "testimonios": {
+  "palabra": [
+   "Lo que dicen"
+  ],
+  "items": [
+   {
+    "texto": "El coaching, el apoyo y la estructura me ayudaron a lograr resultados que nunca imaginé. Muy recomendado.",
+    "destacado": "¡Vibra cambió mi forma de entrenar!",
+    "nombre": "Samuel G.",
+    "foto": "fotos/t1.jpg"
+   },
+   {
+    "texto": "Unirme fue un antes y un después. El plan es claro, me hacen seguimiento y estoy más fuerte que nunca.",
+    "destacado": "La mejor decisión del año",
+    "nombre": "David L.",
+    "foto": "fotos/t2.jpg"
+   },
+   {
+    "texto": "Probé muchos programas antes. Este es el único que entendió mi ritmo y mi agenda.",
+    "destacado": "Por fin un plan que funciona",
+    "nombre": "Sofía R.",
+    "foto": "fotos/t3.jpg"
+   },
+   {
+    "texto": "Nunca pensé que el coaching en línea fuera tan efectivo. Hoy me siento más segura y con energía.",
+    "destacado": "Una experiencia que cambia la vida",
+    "nombre": "Laura P."
+   }
+  ]
+ },
+ "cierre": {
+  "titulo": [
+   "Únete hoy",
+   "y recibe consejos y ofertas"
+  ],
+  "texto": "Escríbenos y te armamos tu primera semana de entrenamiento gratis.",
+  "cta": {
+   "texto": "Hablar por WhatsApp"
+  }
+ }
+}

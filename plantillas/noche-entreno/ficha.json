@@ -1,0 +1,11 @@
+{
+ "id": "noche-entreno",
+ "nombre": "Noche Entreno",
+ "familia": "noche",
+ "inspiracion": "formpeak (lenguaje visual, código propio)",
+ "se_siente": "gimnasio premium de noche: negro, grises, titulares finos en dos tonos, fotos con contraste",
+ "firma": ["portada oscura con titular centrado en dos tonos", "fotos flotando alrededor de un título", "servicios en fila con flecha", "pasos en tarjetas con título fijo", "mosaico de cifras y fotos", "resultados en filas alternadas con cifras", "cierre con tarjeta de contacto al lado"],
+ "para": "entrenadores personales, gimnasios boutique, boxeo, nutrición deportiva, fisioterapia deportiva, academias de deporte",
+ "fotos": {"portada": "horizontal oscura, grupo o silueta", "galeria": "4 fotos verticales (coach, comida, seguimiento, acompañamiento)", "servicios[].imagen": "4 verticales de entrenamiento", "sobre.imagenes": "2 fotos para el mosaico", "testimonios[].foto": "una por resultado", "cierre.imagen": "horizontal oscura"},
+ "fuentes": "family=Geist:wght@300;400;500;600"
+}

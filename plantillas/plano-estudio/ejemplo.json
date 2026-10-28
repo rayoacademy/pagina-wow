@@ -1,0 +1,290 @@
+{
+ "plantilla": "plano-estudio",
+ "nivel": "experto",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Taller Ruiz",
+  "lema": "Empezamos por lo que debe quedarse, porque esa decisión condiciona todo lo que viene después."
+ },
+ "seo": {
+  "titulo": "Taller Ruiz · Arquitectura y remodelación en Bogotá",
+  "descripcion": "Estudio de arquitectura en Bogotá: diseño, remodelación, licencias y acompañamiento de obra. Primera visita de diagnóstico sin costo.",
+  "zona": "Bogotá y Cundinamarca",
+  "imagen": "fotos/portada.jpg"
+ },
+ "legal": {
+  "pais": "CO",
+  "responsable": "Taller Ruiz Arquitectura S.A.S.",
+  "id": "NIT 900.000.000-0"
+ },
+ "integraciones": {
+  "formulario": "propio"
+ },
+ "contacto": {
+  "whatsapp": "+57 301 555 0102",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "linkedin": "https://linkedin.com",
+  "ciudad": "Bogotá"
+ },
+ "menu_nombres": {
+  "sobre": "Estudio",
+  "servicios": "Servicios",
+  "proceso": "Proceso",
+  "testimonios": "Clientes",
+  "galeria": "Obras"
+ },
+ "nav_cta": "Agendar visita",
+ "hero": {
+  "titulo": [
+   "Preferimos reparar un edificio",
+   "que reemplazarlo"
+  ],
+  "texto": "Doce personas trabajando en vivienda, cultura, educación y en la reutilización de lo que ya existe.",
+  "imagen": "fotos/portada.jpg",
+  "alt": "Fachada blanca curva de un edificio",
+  "cta": {
+   "texto": "Ver nuestras obras",
+   "href": "#galeria"
+  },
+  "lugares": [
+   "Bogotá",
+   "Medellín",
+   "Cartagena"
+  ],
+  "lista": [
+   "Arquitectura",
+   "Interiorismo",
+   "Urbanismo",
+   "Patrimonio y reúso",
+   "Estudios de factibilidad",
+   "Obra y entrega"
+  ]
+ },
+ "sobre": {
+  "etiqueta": "Posición",
+  "bajada": "Nuestra forma de ver la arquitectura empezó en los barrios: casas, colegios y salones comunales construidos a la escala de quien los usa. Seguimos trabajando así, porque un edificio que no se puede reparar es una decisión equivocada.",
+  "imagen": "fotos/fundadora.jpg",
+  "alt": "Retrato de la arquitecta fundadora",
+  "firma": {
+   "nombre": "Laura Ruiz",
+   "rol": "Arquitecta fundadora"
+  },
+  "cta": {
+   "texto": "Conoce el estudio",
+   "href": "#servicios"
+  },
+  "cifras_etiqueta": "Datos",
+  "cifras_titulo": [
+   "En números"
+  ],
+  "cifras_bajada": "Cifras que medimos y publicamos, no estimaciones de folleto.",
+  "cifras": [
+   {
+    "e": "Carbono evitado",
+    "n": "2.600 t",
+    "t": "de CO₂ evitadas al conservar estructuras en lugar de demoler."
+   },
+   {
+    "e": "Carbono por m²",
+    "n": "96 kg",
+    "t": "de CO₂ por metro cuadrado, por debajo del promedio del sector."
+   },
+   {
+    "e": "Energía en uso",
+    "n": "19%",
+    "t": "menos consumo que el promedio de su categoría."
+   }
+  ]
+ },
+ "galeria": {
+  "etiqueta": "Obras seleccionadas",
+  "titulo": [
+   "Doce años de obra"
+  ],
+  "bajada": "Proyectos terminados, habitados y en uso. Los concursos y obras en curso van aparte.",
+  "datos": [
+   {
+    "n": "12",
+    "t": "años"
+   },
+   {
+    "n": "8",
+    "t": "premios"
+   }
+  ],
+  "ver_todo": {
+   "texto": "Ver todos los proyectos",
+   "href": "#contacto"
+  },
+  "imagenes": [
+   {
+    "src": "fotos/obra1.jpg",
+    "nombre": "Retícula",
+    "etiqueta": "2024",
+    "titulo": "Casa de los Tilos",
+    "texto": "Usaquén, Bogotá",
+    "alt": "Fachada en retícula de concreto"
+   },
+   {
+    "src": "fotos/obra2.jpg",
+    "nombre": "Espiral",
+    "etiqueta": "2023",
+    "titulo": "Torres del Parque",
+    "texto": "Chapinero, Bogotá",
+    "alt": "Edificio curvo visto desde abajo"
+   },
+   {
+    "src": "fotos/obra3.jpg",
+    "nombre": "Umbral",
+    "etiqueta": "2022",
+    "titulo": "Taller del Salitre",
+    "texto": "Salitre, Bogotá",
+    "alt": "Volumen de concreto con ventanas verticales"
+   },
+   {
+    "src": "fotos/obra4.jpg",
+    "nombre": "Vertical",
+    "etiqueta": "2021",
+    "titulo": "Edificio Canal",
+    "texto": "Getsemaní, Cartagena",
+    "alt": "Torres vistas desde abajo"
+   }
+  ]
+ },
+ "servicios": {
+  "etiqueta": "Servicios",
+  "titulo": [
+   "Cómo podemos",
+   "ayudarte"
+  ],
+  "bajada": "Seis cosas que hacemos, casi siempre juntas, desde la factibilidad hasta la entrega.",
+  "items": [
+   {
+    "titulo": "Arquitectura",
+    "imagen": "fotos/s1.jpg",
+    "texto": "Diseño completo desde el primer boceto hasta la construcción, con una sola persona responsable de principio a fin.",
+    "incluye": [
+     "Estudios de concepto y volumetría",
+     "Planos de licencia",
+     "Paquetes técnicos para cotizar",
+     "Revisión de obra"
+    ]
+   },
+   {
+    "titulo": "Interiorismo",
+    "imagen": "fotos/s2.jpg",
+    "texto": "Espacios interiores que se piensan junto con el edificio, no después."
+   },
+   {
+    "titulo": "Urbanismo",
+    "imagen": "fotos/s3.jpg",
+    "texto": "Planes de manzana y espacio público para que el edificio dialogue con su calle."
+   },
+   {
+    "titulo": "Patrimonio y reúso",
+    "texto": "Recuperamos edificios existentes antes de proponer demoler."
+   },
+   {
+    "titulo": "Estudios de factibilidad",
+    "texto": "Normativa, áreas y costos antes de comprometer un peso en diseño."
+   },
+   {
+    "titulo": "Obra y entrega",
+    "texto": "Interventoría semanal hasta entregar las llaves."
+   }
+  ]
+ },
+ "proceso": {
+  "etiqueta": "Proceso",
+  "titulo": [
+   "Así trabajamos"
+  ],
+  "bajada": "Cinco etapas, desde la primera conversación hasta el año siguiente a la entrega.",
+  "items": [
+   {
+    "titulo": "Escuchar y mirar",
+    "texto": "Visitamos el lugar, medimos lo que existe y escribimos qué necesita de verdad el proyecto."
+   },
+   {
+    "titulo": "Probar el encargo",
+    "texto": "Factibilidad, normativa y costos tempranos para que las decisiones partan de números reales."
+   },
+   {
+    "titulo": "Diseño y licencia",
+    "texto": "Desarrollamos el diseño y lo radicamos ante curaduría con todos los soportes técnicos."
+   },
+   {
+    "titulo": "Detalle y cotización",
+    "texto": "Paquetes técnicos detallados para que los constructores coticen sobre lo mismo."
+   },
+   {
+    "titulo": "Obra y entrega",
+    "texto": "Presencia semanal en obra y una visita un año después de entregar."
+   }
+  ]
+ },
+ "testimonios": {
+  "etiqueta": "Clientes",
+  "titulo": [
+   "Relaciones largas"
+  ],
+  "bajada": "Familias, colegios, constructoras y fundaciones culturales.",
+  "items": [
+   {
+    "texto": "Trabajamos con Taller Ruiz en tres proyectos y siempre llegaron con preguntas antes que con respuestas. Por eso sus edificios se usan tan bien.",
+    "nombre": "Andrés Gómez",
+    "rol": "Director de proyectos, Fundación Alto",
+    "foto": "fotos/cliente.jpg"
+   }
+  ]
+ },
+ "clientes": [
+  "Fundación Alto",
+  "Colegio Andino",
+  "Constructora Sur",
+  "Casa Prado",
+  "Museo Barrio",
+  "Grupo Canal",
+  "Vivienda Norte",
+  "Centro Civis"
+ ],
+ "faq": [
+  {
+   "p": "¿Cómo se definen los honorarios?",
+   "r": "Un porcentaje del costo de obra, con un valor cerrado por etapa que acordamos después de la visita."
+  },
+  {
+   "p": "¿Podemos hablar antes de comprar el lote?",
+   "r": "Sí, y es lo que recomendamos. Un estudio de factibilidad evita comprar un lote donde no cabe lo que quieres."
+  },
+  {
+   "p": "¿Cuánto tarda un proyecto?",
+   "r": "Una remodelación, de tres a seis meses. Una obra nueva, entre doce y dieciocho, licencia incluida."
+  },
+  {
+   "p": "¿Toman proyectos pequeños?",
+   "r": "Sí. Un apartamento bien resuelto nos importa tanto como un edificio."
+  },
+  {
+   "p": "¿Trabajan fuera de Bogotá?",
+   "r": "Sí, en Medellín y Cartagena tenemos obras en curso. Otras ciudades se cotizan aparte."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "¿Qué estás construyendo?"
+  ],
+  "texto": "Una casa, un colegio, una clínica, una bodega que acabas de comprar. Empieza en cualquier punto.",
+  "cta": {
+   "texto": "Cuéntanos"
+  },
+  "imagenes": [
+   "fotos/tira1.jpg",
+   "fotos/tira2.jpg",
+   "fotos/tira3.jpg",
+   "fotos/tira4.jpg",
+   "fotos/tira5.jpg"
+  ]
+ }
+}

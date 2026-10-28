@@ -1,0 +1,96 @@
+{
+ "variante": "pulso-atardecer",
+ "nivel": "amateur",
+ "idioma": "es",
+ "marca": {
+  "nombre": "Vibra Studio",
+  "inicial": "V"
+ },
+ "seo": {
+  "titulo": "Vibra Studio · Clases de baile fitness en Cali",
+  "descripcion": "Clases grupales de baile fitness en Cali y online. Primera clase gratis, todos los niveles.",
+  "zona": "Cali"
+ },
+ "legal": {
+  "pais": "CO"
+ },
+ "integraciones": {
+  "posthog": {
+   "key": "phc_REEMPLAZAR",
+   "host": "https://us.i.posthog.com"
+  }
+ },
+ "contacto": {
+  "whatsapp": "+57 315 555 0103",
+  "email": "hola@ejemplo.com",
+  "instagram": "@negocio.ejemplo",
+  "ciudad": "Cali",
+  "web3forms_key": ""
+ },
+ "nav_cta": "Clase gratis",
+ "hero": {
+  "etiqueta": "Nuevos horarios de noche",
+  "titulo": [
+   "Suda bailando,",
+   "vuelve por más"
+  ],
+  "texto": "Clases de 50 minutos con música que te sabes. **Sin experiencia previa.**",
+  "cta": {
+   "texto": "Reservar clase gratis"
+  }
+ },
+ "marquesina": [
+  "Salsa",
+  "Reggaetón",
+  "Afro",
+  "Cardio",
+  "Comunidad"
+ ],
+ "servicios": {
+  "etiqueta": "Clases",
+  "titulo": [
+   "Escoge",
+   "tu ritmo"
+  ],
+  "items": [
+   {
+    "titulo": "Baile fitness",
+    "texto": "Cardio con coreografías fáciles.",
+    "precio": "$25.000"
+   },
+   {
+    "titulo": "Salsa caleña",
+    "texto": "Técnica y pasos para la rumba.",
+    "precio": "$30.000"
+   },
+   {
+    "titulo": "Online",
+    "texto": "En vivo desde tu sala.",
+    "precio": "$80.000/mes"
+   }
+  ]
+ },
+ "faq": [
+  {
+   "p": "¿Necesito saber bailar?",
+   "r": "No. Las clases empiezan desde cero."
+  },
+  {
+   "p": "¿Qué llevo?",
+   "r": "Ropa cómoda, tenis y agua."
+  },
+  {
+   "p": "¿Cómo reservo?",
+   "r": "Por WhatsApp, te confirmamos el cupo en minutos."
+  }
+ ],
+ "cierre": {
+  "titulo": [
+   "Tu primera clase",
+   "va por nuestra cuenta"
+  ],
+  "cta": {
+   "texto": "Reservar por WhatsApp"
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "id": "noche-consultor",
+ "nombre": "Noche Consultor",
+ "familia": "noche",
+ "inspiracion": "consulttitan (lenguaje visual, código propio)",
+ "se_siente": "consultoría premium nocturna: negro profundo, vidrio, brillos suaves, titular con degradado",
+ "firma": ["menú en cápsula", "titular centrado con degradado", "tarjeta grande de foto o video con brillo", "problema en panel de vidrio con lista de chequeo", "línea de tiempo numerada", "precios dentro de un contenedor con cuadrícula", "contacto con retrato y testimonio encima", "cierre con resplandor"],
+ "para": "consultores, coaches de negocio, mentores, agencias B2B, abogados corporativos, asesores financieros",
+ "fotos": {"portada": "retrato o escena oscura horizontal (o hero.video)", "sobre.imagen": "vertical, alguien trabajando", "contacto_seccion.imagen": "retrato vertical sonriendo", "galeria": "2 fotos de talleres o trabajo", "testimonios[].foto": "avatares"},
+ "fuentes": "family=Poppins:wght@300;400;500"
+}
