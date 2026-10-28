@@ -12,7 +12,7 @@ No tienes que saber de diseño ni de código.
 ## Cómo se instala
 Abre Claude Code y pégale esto:
 
-> Instala esta skill en ~/.claude/skills/: https://github.com/mariap9623-cell/pagina-wow
+> Instala esta skill en ~/.claude/skills/: https://github.com/rayoacademy/pagina-wow
 
 O a mano: copia la carpeta del repositorio dentro de `~/.claude/skills/pagina-wow` (en Windows: `C:\Users\<tu usuario>\.claude\skills\pagina-wow`).
 
