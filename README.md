@@ -1,5 +1,7 @@
 # pagina-wow
 
+![Tu página web, conversando: una skill para Claude Code con 14 diseños, legal y SEO incluidos](.github/portada.jpg)
+
 Una skill para Claude Code que te hace tu página web conversando. Te hace unas preguntas cortas sobre tu negocio, te muestra 2 o 3 diseños de 14 plantillas propias, arma la página con tus textos y fotos, te enseña cómo se ve en el celular y en el computador, y la deja publicada en internet cuando dices "sí, publícala".
 
 No tienes que saber de diseño ni de código.
